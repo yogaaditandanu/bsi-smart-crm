@@ -1,0 +1,1032 @@
+Timestamp,User_ID,Nama_Nasabah,User_Input,Predicted_Category,Confidence_Score,Priority_Rank,Action_Tag,Status_Nasabah,Produk_Dimiliki
+"13 Feb 2026, 20.17.29",6281270242582,Budi 94,Mau tanya soal tabungan emad,TABUNG_EMAS,0.99,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"14 Feb 2026, 04.35.45",6287774314153,Dewi 88,biaya,TABUNG_EMAS,0.99,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 16.12.05",6285173118603,Sri 82,Maksud dari tabungan emas itu bagaimana?,TABUNG_EMAS,0.99,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 20.32.40",6281363768852,Joko 62,Brpa nominal nya kakak hrs transfer Aisyah?,TABUNG_EMAS,0.99,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 18.55.08",6285281259775,Dewi 36,Iya saya pengen buka tabungan E- mas,TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.48.41",628982669941,Rina 14,"Oh, harganya brp untuk 0,02 gramnya?",TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"4 Feb 2026, 04.00.52",6281555729554,Ayu 11,Kak boleh dijelaskan BSI GRIYA seperti apa,TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.23.02",6282372743961,Joko 82,"Minta bantu soal pengajuan kamu dlu buk, klu bisa cair bisa nabung emas",TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.21.04",6281553062862,Ahmad 52,Berapa harga2 nya ya,TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.22.57",6282139785240,Joko 25,Caranya gmn kk nabung emas,TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.59.09",6287829405600,Sri 40,"kemarin sdh ke Bank SDH dijelas kan sama Mas nya. 
+
+keamanan nya bagaimana ya?",TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.17.54",6282310953461,Dewi 39,"Setelah lunas nominal 0,02,apa mas d ambil apa gmn?",TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.23.47",6282270802124,Rina 26,"Wa'alaikum salam aisyah, salam kenal juga. Untuk nabung emas, sepertinya saat ini belum dulu.",TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.55.37",6285274620663,Budi 22,Selisih beli dengan jualnya berapa?,TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.00.49",6285742182682,Dewi 96,Untuk tabungan emas bisa diambil kapan saja atau ada jangka waktu pengambilannya,TABUNG_EMAS,0.98,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.44.29",6285867067677,Budi 15,Ada info rinci dan detail tabungan ini nnti sy pelajari dl,TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 19.08.54",628127262644,Putri 47,Klo nabung emas misal sewaktu waktu mau di uangkan bisa kan mbak,TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"9 Feb 2026, 18.30.55",6285260824045,Eko 65,nnti uang kita bakalan hilang gak ? kalau ketika emasnya turun,TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.49.12",6285247749256,Dewi 43,Gmn cara nabung emas,TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 22.43.57",6281373562191,Andi 60,Jadi setoran awal pas buka rekening brp bu?,TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"4 Feb 2026, 14.24.48",6283829729272,Ayu 53,BSI E-mas itu apa ya?,TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.21.07",6285387465003,Joko 81,Sebenarnya tertarik untuk tabungan emas..,TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.07.09",6285752790469,Ayu 47,"klw tambah  0,5 grm  bisa ngk",TABUNG_EMAS,0.97,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 15.43.43",6283826710668,Ayu 21,"Saya sudah punya rekening dan aplikasi BYOND BSI, bagaimana langkah2 utk membuka tabungan emas nya",TABUNG_EMAS,0.96,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.51.24",6285717033642,Rina 81,Cara buka rekeningnya gmna,TABUNG_EMAS,0.96,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.19.25",628161946555,Siti 13,Bagaimana tinjauan syariahnya?,TABUNG_EMAS,0.96,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.18.05",6282216021509,Rizky 82,"Lagi viral di negara luar tabungan emas gak bisa diklaim fisiknya, bhkan nasabah terancam gagal byr atas simpanannya",TABUNG_EMAS,0.96,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 21.42.05",6282298412952,Joko 95,Panduan nya,TABUNG_EMAS,0.96,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.23.37",62811980205,Rina 83,Jangan memaksa saya masih sd saya tidak perlu tabungan emas,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"11 Feb 2026, 14.03.27",628176592013,Dewi 69,kartu saya tertelan di ATM dan uang saya tidak keluar gimana ya,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"21 Feb 2026, 11.36.22",6281261400542,Putri 31,Aisyah bisakah bukan tabungan emas online?,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"4 Feb 2026, 14.30.46",6283829729272,Sri 56,Cetak e.as biasa perlu brp lama,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 04.50.49",6285789809401,Budi 64,"Waalaikumsalam,,,, iya mbj pengen , tapi saya blum tau banyak tentang nabung emas terima kasih 🙏",TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.54.06",6285790809492,Ahmad 39,Mbak ni tak buka antara beli dan jual selisih e kok banyak,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.35.07",6282125602890,Ayu 23,"Kalo misalnya langsung di jual,harganya berapa ya kak?",TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.47.49",6285716146265,Sri 56,Untuk hari ini brp harga per gramnya,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.30.39",6285235585360,Eko 97,Nanti setelah terkumpul diambil emasnya atau uangnya?,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.22.02",6285399947740,Budi 97,Apakah harus ke kantor cabang u buka rekening,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.45.40",6281255713737,Rizky 10,Untuk nabung emas kira² jangkanya minim berapa bulan baru bisa diambil ?!,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.22.32",6281355000173,Dewi 20,Mau buka tabungan,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.26.18",6285201011100,Budi 16,Biaya cetak fisik berapaan?,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.19.15",6282251492199,Andi 27,Kartu bsi hasanah belum sampai,TABUNG_EMAS,0.95,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.15.47",6282267904353,Eko 93,Kalau bisa relaksasi untuk pembayaran lagi donk mbak sampai bulan 4 pas habis lebaran mbak🙏,TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 16.40.27",6285351316707,Andi 79,"Bgm caranya menabung emas, & apa keunggulannya?",TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 20.29.51",6285230566681,Ayu 67,Saya sudah nabung emas di BSI,TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.24.52",6282139785240,Eko 39,Apa manfaat nabung emas,TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.20.13",6282390647052,Andi 33,"Kalau sistimnya bagaimana Ka, Sistim Potong saldo tabungan atau Sistim Setor Teler",TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 15.29.57",6285710105270,Budi 61,Klo utk tabungannya berapa perbulan?,TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.53.12",6285839296614,Andi 31,Mulai dari investasi brp,TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 17.59.55",6281395536463,Sri 48,Nabung sesuai kemampuan kita atau ditentukan besarnya?,TABUNG_EMAS,0.94,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 16.09.17",6285398642430,Budi 78,Rincian rupiahnya brp yaa,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.59.08",6285270871942,Budi 97,Harga mas LM,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.21.57",6289681214785,Putri 72,Maaf kak utk saat ini blm bs ikut tabungan emas,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.33.28",6285692894604,Ayu 36,Kalau rekening BSI yg biasa bisa ga ka,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 16.40.47",6285351316707,Sri 59,Apakah sesuai dg syariat Islam ?,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 15.54.05",6285721344966,Ahmad 94,ok bntr saya liat flu di byond,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.21.18",6281539921783,Budi 74,Jauh sekali ya harga jualnya,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.54.57",6285292209860,Rizky 71,Kalau yang 0.02 brp pemula yaa dari terendah duluu 🙏🏾,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.04.22",6281351837046,Ayu 51,"sekarang bsi dua kali potong admin atm,bikin tekor",TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.49.17",6281265534404,Putri 37,Maaf kak saya untuk sekarang belom tertarik untuk tabungan emas 🙏,TABUNG_EMAS,0.93,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.13.02",6281398757267,Ayu 11,Kalau nabung emas ada biayanya ga,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 17.21.24",6281333040405,Siti 28,diaplikasi bisa langsung,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.34.47",6287820051037,Ayu 88,Oh ya bagaimana  cara membuka rekeningnya,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.16.55",6285255635641,Putri 34,Iyaa saya ingin tahun cara pengajuan bsi hasanah card,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.28.23",6289654145448,Joko 28,Pengen ngaju mas aj kk,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.29.18",6285372747828,Putri 67,berapa bisa sekali tabung uangnya?,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 16.42.03",6285257159643,Andi 68,Cara buka gimana caranya,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.21.54",6282390647052,Sri 99,"0,02 itu kalau kita rupiahkan berapa kk...?",TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 18.01.17",6281395536463,Andi 46,Apakah aman dan dipercaya?,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 20.59.58",6285750241030,Rina 15,Nilai 10jt itu akumulasi transaksi atau dihitung per sekali transaksi?,TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.20.05",6282122255022,Ayu 11,"info pelayanan kartu ATM selama ramadhan sampai jm brp mbak..?
+Kartu saya sudah expired",TABUNG_EMAS,0.92,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.52.09",6285290816920,Putri 84,Sudah nabung emas,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 20.58.29",6281282700161,Putri 81,Tabungan emas Kena biaya tidak,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.04.09",6281370847805,Rina 14,Maksudnya walaupun udah rekening sendiri buka rekening baru,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.10.24",6282352220442,Putri 93,Seputar tabungan E-mas aj,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.23.53",6281264221974,Joko 24,Emasnya kapan bs diambil? Setorannya gimn?,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.45.20",6285869270107,Rizky 70,Pertahun 24 rb sudah all in tidak ada biaya lainnya ya?,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.30.56",6282164337372,Sri 18,Ini tanpa perlu ambil fisik emasnya ya?,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"4 Feb 2026, 14.25.19",6283829729272,Joko 94,Kalo mau cetak biaya nya berapa ya?,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.45.55",6285266930779,Ahmad 38,Terimakasih atas tawaran nya saya sudah ambil tabungan Emas 50 gr,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.20.51",6281991117909,Ayu 67,mau tanya info selain terkait tabungan emas bisa?,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 20.05.37",6285360066241,Andi 97,semoga diijabah doanya tabung emas,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.20.21",6281373422584,Dewi 32,Gimana cara menabung mas,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"4 Feb 2026, 14.25.52",6283829729272,Eko 26,Harga BSI E-mas hari ini berapa?,TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.29.12",62811486298,Putri 48,"Wa'alaikumussalaam warohmatullahi wabarokatuh mba Aisyah, maaf kebetulan saya melalui istri masih berjalan tabungan emasnya... terima kasih 🙏🏻😊",TABUNG_EMAS,0.91,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"14 Feb 2026, 20.51.47",6285786224742,Siti 63,Cara buka tabungan emas?,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.49.38",6285257159643,Dewi 41,"Ok makasih,tpi bingung klou ngambil  semisal udah banyak tabungan",TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"14 Feb 2026, 06.52.01",628127980966,Ayu 28,Saya sudah punya buku rekening   BSI buk,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.44.03",6285716146265,Joko 26,Bagaimana caranya kalau kita mau menabung Emas,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 12.14.26",6285842600447,Eko 14,Ini berarti gak ada bentuk fisik emasnya kak??,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.24.45",6283857637614,Sri 46,Untuk membukanya harus ke bank atau bisa langsung lewat Byond?,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.16.43",6281319536200,Ayu 65,Kalo saya mau jual?,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.19.16",6289654145448,Joko 69,Klw ngaju mas bisa GK kk?,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 18.57.13",6285281259775,Dewi 56,"Untuk harga sekarang 0,02 berapa mbak",TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.21.29",6281388210909,Joko 90,kenapa byond saya tdk bisa d buka,TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.32.48",6282186636276,Ahmad 90,"oh, berarti tetap harus datang ke bank",TABUNG_EMAS,0.9,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.16.38",6282154043623,Rina 70,Saya sdh punya tabungan emas,TABUNG_EMAS,0.89,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.09.36",628129835903,Rizky 87,Apakah tabungan emas ini biaya pajak atau potongan admin per bulan spy tabungan uang lainnya,TABUNG_EMAS,0.89,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.28.39",6285786704548,Putri 85,Rekening tabungan wadiah & tabungan emas beda berarti ya kak ?,TABUNG_EMAS,0.89,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 15.48.47",6282328321467,Andi 87,Fisik emasnya bisa diambil swaktu2 y mba'?,TABUNG_EMAS,0.89,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 17.39.11",6281333040405,Ahmad 44,setor tabungan selanjutnya brapa rupiah?,TABUNG_EMAS,0.89,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.43.51",6281556439643,Siti 20,"Faham mbak ,yg belum sy mengerti berapa pertama tabungan emas ,uang ya",TABUNG_EMAS,0.89,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.58.45",6285742182682,Siti 72,Detail dan fitur pembuka.anya dong kak,TABUNG_EMAS,0.89,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 17.21.14",6281333040405,Rizky 31,bagaimana cara buka tabungan e-mas,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"4 Feb 2026, 04.11.00",6281555729554,Dewi 53,reset,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"16 Feb 2026, 15.23.42",6285394233660,Budi 97,Kalau membuka tabungan emas lewat byond BSI  apakah ada buku tabungannya lagi??,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.36.16",6281240248484,Joko 80,"Kebatulan sy nasabah BSI dan sy juga suka Bali emas fisik,jika nabung emas dan diambil berpa lama prosesnya",TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.01.25",6281372516018,Rina 63,brapa harga mas sekarang ya ?,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.17.40",6287773993128,Joko 37,Gimana cara buka tabungan emas,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 18.25.44",6285358847943,Rizky 35,"Oalah, bagaimana tu dari sisi syariahnya",TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.19.21",6281316623778,Siti 27,Minimal tabungan brp kak?,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.03.02",6281935125772,Joko 57,Uda ada rekening,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.33.12",6282138406660,Budi 77,Nanti kalau sudah lunas ambil lg,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.53.13",6281310713571,Budi 59,Minimal berapa lama menjadi nasabah tabungan emas?,TABUNG_EMAS,0.88,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 16.49.38",6285100859705,Sri 42,tabungan emasnya kalau sudah 1 gr atsu lebih apakah bisa di ambil fisiknya atau bagaimana.. dan ambilnya dimana?,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"20 Feb 2026, 13.21.19",6281282364005,Sri 39,Apa d debet dr tabungan wadiah,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 09.52.05",6285397081489,Rina 72,jumlah minimal betapa dan apa.keuntungan yg didapat,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 16.39.57",6285247278393,Ayu 64,Bagaimana cara buka atau transaksi nya tabungan emas nya?,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"14 Feb 2026, 04.37.08",6287774314153,Putri 22,biaya buka rekening dan jual,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.51.48",6285722638513,Rina 89,Maaf mba... saya nabung emas fìsik 🙏,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.39.51",6281345351924,Joko 98,Waallaikumsallam… membuka buku tabungan nya ke ktr kah mba,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"20 Feb 2026, 13.20.35",6281282364005,Ayu 13,Cara tabung gmn,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 06.00.02",6282240460525,Rizky 83,Bagaimana bentuk tabungan emas itu?,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 05.07.49",6282167461424,Budi 68,Tabungan emas,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.17.56",6281539921783,Dewi 32,Ada fisiknya,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 16.32.20",6285262527262,Putri 20,Harga,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.50.38",6285867319960,Sri 97,"Emasnnya masih naik, nunggu turun dulu",TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.51.24",6285257159643,Ahmad 15,Mau ada biaya bulanan gak untuk nabung emas,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.38.45",6282245239929,Ayu 40,tabungan emas lg rawan sekarang mbak. kita mau uang nyata aja,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 18.19.46",628989383959,Ahmad 86,Tabungan emas maksutya bagaimana,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.57.22",6285394233660,Putri 17,Gimana cara buka tabungan Emas,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.33.46",6285275255415,Siti 17,Berpa biaya admin nya?,TABUNG_EMAS,0.87,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.15.18",6285239156640,Rizky 23,Sy lgi nabung emas 10 gram,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"11 Feb 2026, 14.04.46",628176592013,Rizky 87,Saya ingin komplain terkait transaksi di ATM dan kartu saya terblokir,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.55.15",6282129550048,Siti 80,Keuntungan tabungan emas?,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.51.28",6281310713571,Rina 66,Apa keuntungan bagi si penabung?,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"9 Feb 2026, 18.25.01",6285260824045,Ahmad 12,cara nabungnya gimna,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 13.16.32",6285213856685,Ahmad 92,Caranya gimn kak nabung emasnya,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.22.21",6282158333641,Joko 44,Waalaikumsalam warahmatullah tabungan emas seperti apa itu,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.28.16",6281391978859,Dewi 16,Tabungan Emas caranya gmn ya,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 12.57.55",6281360200282,Joko 18,Saya mau tukar uang kek mana cara udah ada Ling TPI ada lhokseumawe,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 16.06.48",6282164337372,Siti 64,Spill harganya kak,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.44.22",6285330213091,Putri 25,Bedanya tabungan wadiah dan mudharabah,TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.19.25",6282250850885,Eko 68,"Ini maksud nya gimana KK, 50rb sudah bisa beli mad",TABUNG_EMAS,0.86,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.43.03",6282154276575,Putri 58,detail cara pengajuanya,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"30 Jan 2026, 14.37.32",6281233439037,Joko 81,Kalau nabung emas d bsi nanti fisiknya dapet antam atau bsi gold?,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.46.37",6285321832264,Andi 91,Gimana caranya dan seperti apa pembayaran dan kepemilikan emasnya,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 17.54.13",6281395536463,Andi 44,Saya belum paham maksudnya nabung emas,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.32.14",6282339007301,Rina 22,Itu nabung emas awalan pakai uang muka gak dan,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.14.36",628115589444,Eko 10,Brpa bulanan nya,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.46.06",6281264221974,Budi 19,Uangnya bs tarik? Kl perlu?,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.21.33",628125832272,Sri 94,Ini masih cilemnya belum lunas dan baru sebulanan baru cilem lagi mbak.,TABUNG_EMAS,0.85,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 16.11.35",6285360856469,Rizky 94,"Poin no 1, brarti itu berupa amas antam?
+Poin no 2 , brapa uang untuk tabungan emas perdana nya",TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.25.12",6285786704548,Joko 74,Waalaikumsalam... gimana cara bukanya trs berapa biaya admin perbulannya kak ?,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"21 Feb 2026, 14.23.02",6282385480777,Putri 78,Gmn caranya ikut cilem,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.10.44",628129835903,Sri 86,"Artinya kalau kita nabung emas, tp tdk ada transaksi selama 1 tahun nilai emas kita tdk berkurang",TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 20.57.42",6285750241030,Andi 35,Berarti jika transaksi penjualan dibawah 10jt tidak kena pajak penghasilan ya bu?,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.01.27",6285398642430,Ahmad 44,Klo nabung emas 5 gr atau 10 gr estimasi 2 tahun brp setorannya,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"20 Feb 2026, 13.19.23",6281282364005,Dewi 40,Apakah no rek terpisah dr tabungan wadiah,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.36.25",6287888636096,Sri 20,Plafondnya ada?,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.17.02",6281999188393,Eko 34,Mohon maap sy malah mau jual mas hehe,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.45.14",6285310112223,Andi 28,"Mohon info, apakah BSI ada produk kartu e-money?",TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.17.21",62895615264979,Putri 46,Tpi Emasnya blum ready ya,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.27.49",6285777760344,Ayu 92,Klo sy mau beli cash bs,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 15.10.43",6281319536200,Putri 19,"Ini emas LM kan
+Contoh simulasi nabung emas 5 gram ?",TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.24.47",6281344332174,Sri 40,Cara buka,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 20.12.51",6281373562191,Budi 85,Cara nabungnya gimana bu? Apa ada target setiap bulan mesti setor uang brp? Atau bagaimana?,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.45.08",6281363467650,Budi 16,Pas beli dita ya npwp,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.20.41",6282390647052,Eko 99,Dan berapa minimal kita bisa Pembayaran tabungannya,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.24.18",6287860708203,Ayu 80,Sudah punya tabungan emas di BSI mbak,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.20.39",6281270578245,Dewi 32,"Kalau sudah punya byond BSI, tinggal buka saja ya menunya.",TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.31.00",6285215652922,Ayu 69,Perbulannya berpa bayar mbak,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.19.38",6285399947740,Rizky 97,Nominalnya berapa?  Tngn awal dan kpn bisa ambil emasnya klo kita nabung,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.18.22",6281340556745,Rina 84,Apa harus buka tabungan emas lagi kalau suda ada tabungan bsi,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.25.30",6285201011100,Andi 57,"Keluhan bbrpa rekan saat nabung emas di perbankan, ada biaya admin saat pengambilan emas yg telah lunas, lumayan besaran.. Gtu katax",TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 20.38.29",6281363768852,Rizky 98,Berapa kkak hrs transfer uangnya Aisyah?,TABUNG_EMAS,0.84,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.46.28",6281345351924,Siti 54,Madalah penyetoran nya gimana mba…. Malkum org tua krg ngerti,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.53.57",6285394233660,Eko 84,Kalau buka tabungan emas minimal berapa dan biaya berapa biaya admin setiap bulan.,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 15.12.25",6282339862727,Putri 69,Alhmdl.. sudah buka tabungan emasx mbk..,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"21 Feb 2026, 11.08.37",6281349441081,Siti 76,Udah lama saya tabung emas batangan dengan berat 25gm,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 15.03.26",6285358866666,Joko 44,"Berarti online tidak ada barang fisik, ya gak sesuai syariah dong",TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"9 Feb 2026, 18.29.50",6285260824045,Sri 75,saya mau bertanya kalau misalnya mau buka rekening tabungan anak gimna ya,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.05.59",6283843596993,Dewi 57,Tabungan per bulan berapa,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.18.54",6282251894744,Andi 53,Sy Sdh punya tabungan emas di Bsi mba,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.28.13",6285268794277,Putri 71,Maksudnya dr tabungan emas itu gmn mo cairkannya jika butuh mendadak?,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.26.24",6282169308937,Putri 81,Maaf ya aku udah nabung emas lo,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.49.52",6285272421946,Budi 65,Maaf ya Aisyah saya ga tertarik tuk nabung emas,TABUNG_EMAS,0.83,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 15.43.54",6285330213091,Eko 96,Cara buka rekening baru,TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 10.57.14",6282210925858,Eko 29,ada giveaway gk,TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.18.28",6283171908065,Joko 56,Saya tidak mau bergabung Krena tabungan saya dicuri pegawai org dlm,TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.27.20",6285257931885,Rizky 77,"Keuntungannya apa, apa bisa dijual lagi?",TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.26.57",628126820962,Rina 85,"Kalau sistim syariah bagaimana cara menabung ya ,,,❓",TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"21 Feb 2026, 10.54.46",6289649383638,Ahmad 34,"Harga 0,02 berapa ya",TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.20.24",6285277834242,Siti 67,engak usah sy udah nabung emas bsi,TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.22.16",6281340556745,Joko 96,Apa setelah daftar melalui apk kita juga di kasi buku tabungan emasnya ya,TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.29.51",628156710886,Budi 76,Ingin tahu lebih banyak terkait tabungan emas,TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.24.07",6281224900223,Joko 54,"Berapa harga / 0,02",TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.22.28",6283813651198,Sri 74,Pengen pinjam duit,TABUNG_EMAS,0.82,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 18.48.49",6285281259775,Rizky 40,Cara buka tabungannya bagaimn  mbak,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.13.45",6285360856469,Joko 92,Poin no 2 brapa uang yg harus di keluarkan kn untuk nabung nya kk?,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 13.02.49",6281360200282,Budi 15,Kan ada kenalan tentang penukaran yg di Banda Aceh kpan sekiranyany di bka,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.18.45",6281213409627,Sri 28,Blm KK soalx blm ada yg bisa ditabung🙏,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.37.38",62811513837,Rizky 51,Kapan bisa d ambil fisik emasnya,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 21.41.06",6282298412952,Dewi 50,Tanya2ya gmna cara nab nya,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 12.18.33",6285706041340,Siti 60,Buat apa ya nabung emas?,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 15.30.20",6282186636276,Andi 15,bagaimana supaya punya rekeningan tabungan Wadiah atau mudharabah?,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.01.38",6285201011100,Dewi 38,Itu wajib setor tiap bulan ya,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 16.50.48",6285257159643,Sri 89,Kalou mau di jadikan uang gimana,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.34.35",6281240248484,Joko 71,Klo nabung emas Fisik gimana kak,TABUNG_EMAS,0.81,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.18.34",6281539921783,Dewi 58,Cetak tabungan mksudnya gmn,TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"11 Feb 2026, 14.02.40",628176592013,Rina 28,"Saya transfer ke rekening BCA, uang saya sudah terpotong namun belum masuk ke rekening penerima giman ya?",TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.34.45",6282276583811,Andi 24,Mau jelaskan cara buka tabungan emas nya,TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.57.17",6285275255415,Rizky 12,Kalau mau cetak fisiknya bagaimana caranya?,TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.25.00",6281264221974,Andi 12,Masa setoran? Dibatasi?,TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.56.43",6285394233660,Andi 58,Apakah tabungan BSI anak saldonya bisa dialihkan ke tabungan Emas.,TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.17.01",6281344499035,Ayu 97,"Selain tabungan emas,  ada apa lagi y?",TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.28.17",6282370123373,Putri 90,Untuk dpnya,TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.17.41",6287741150221,Ahmad 55,"""Halo! Selamat datang di Tsaury Store 😊 (Toko Online Mitra Resmi Alfamart)                      Kami punya promo menarik setiap hari untuk kebutuhan harian Anda - mulai dari makanan pokok, sembako, kosmetik hingga perlengkapan rumah tangga. Yuk, cek penawaran hari ini atau bilang aja apa yang Anda butuhkan!  ""https://wa.me/c/6287741150221 😊",TABUNG_EMAS,0.8,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.41.22",6285717033642,Rina 72,Ni nabung perbulan 50rb buat tabungan emas,TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.26.33",6285295603113,Putri 62,"Bismillah ,ada minat.  Tapi saldonya di BSI blm ada.  Dana sertifikasinya blm cair 🙏",TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.58.09",6285790809492,Andi 25,Ya tips investasi mas,TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.15.15",6285285749659,Budi 31,"Selamat Datang 😀🤲🎉🎊
+Master CCTV dan Komputer, 
+Info lebih lanjut, hub : 
+1. Jl. Tanjung Rema Darat, MTP WA:  081244306379
+2. Jl. Karang Anyar 2, BJB WA: 081349919509
+3. Jl. Kemuning, BJB WA: 082189749599
+Silahkan kunjungi :
+Website : www.mastercctvdankomputer.com
+Shopee : mastercctv123 / mastercctvbjb
+Instagram : mastercctvdankomputer
+Facebook : Mastercctv Dankomputer/Masters Cctv
+Siplah ://siplah.tokoladang.co.id/official-store/master-cctv-dan-komputer.36427
+E-catalog : //katalog.inaproc.id/rizqi-multitama",TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.25.22",6285231341849,Ahmad 28,Boleh minta contoh pencatatan tabung emasnya?,TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.07.35",6283863285111,Eko 77,Saya sdh nabung mau tau gmna caranya melihat harga sejarang,TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 18.09.22",6285292209860,Siti 14,Sudah cek harga di aplikasi yang 0.02 grammtidak tertera,TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.19.15",6281270578245,Dewi 86,"Bagaimana caranya, buka aplikasi yang mana ya Mba.",TABUNG_EMAS,0.79,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 16.02.12",6282261062481,Dewi 24,"Terimakasih Bu,belum bisa nabung emas 😁🙏,",TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"6 Feb 2026, 09.14.16",6285219546102,Rina 98,Apa sih tabungan emas,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.53.06",6285717033642,Rina 55,Oya bayar biaya admin TF atau gmna,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"20 Feb 2026, 15.43.19",6282326726777,Ayu 20,Misal beli sesuai harga dan gramnya. Fisiknya hanya berupa cetak aja kak?,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.11.48",6282236208805,Dewi 32,Enak di bank aceh nabung emas kak,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.42.37",6282256383646,Budi 16,Mulai brp hrganya,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 15.14.40",6281553586966,Ahmad 85,"untuk buka tabungan emas, apakah perlu datang ke kantor cabang?",TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.49.36",6282134564561,Eko 24,Sekarang harg brp kak?,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.23.14",6282299535330,Andi 20,Tiap bulan harus bro kita bayar,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.02.37",628129835903,Dewi 81,"Biaya admin tahunan dianggap sbg biaya penyimpanan dan biaya asuransi sebesar 24 rb, apakah itu sama atau akan mengalami kenaikan sesuai dng makin banyk nya jumlah tabungan kita",TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.34.05",6285229050082,Eko 21,Saya sudah nabung emas di BSI kak,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.37.30",6289661945966,Sri 13,Di mulai berapa saya harus nabung ya perbulan pa gmn,TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.17.43",6281233880029,Eko 68,"Terima kasih telah menghubungi Bendahara SMK Queen Al-Falah. Untuk konfirmasi pembayaran silahkan cantumkan
+Nama :
+Kelas  :
+Nominal :
+Nama Pengirim :
+Lampiran : Foto resi/bukti transfer 
+Dan bukti pembayaran/kwitansi akan kami kirimkan kolektif melalui wali kelas.",TABUNG_EMAS,0.78,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.16.53",6285786224742,Andi 79,bentuk nya nabung berapa pun atau harus brp rupiah per bulan?,TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.26.34",6282122255022,Ayu 16,"Bulan kemarin infonya stok kartu ATM di can Semarang habis..
+Apakah saat ini stok aman ?",TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.19.08",6281553597673,Ayu 17,"Bagaimana cara nabung emas di bsi?
+
+Dan berapa harga emas sekarang di bsi?",TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"30 Jan 2026, 14.53.22",6281233439037,Budi 39,"Kalau menurut harga sekarang, 3.200.000 maka butuh berapa kali?",TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.05.22",6285279117107,Siti 75,0.02 itu. Berpaa dwit,TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.33.53",6285175452787,Siti 42,Ambil uang ja bisa buk,TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.50.34",6285100859705,Rina 53,berapa biaya admin per bulannya kak?,TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.08.45",6285733521513,Sri 32,Tiap bulan apa wajib nabung,TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.00.03",6285394233660,Ahmad 82,Apakah kalau membuka rekening emas tetap 1 aplikasi byond bsi dengan rekening tabungan.,TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.29.06",6281340556745,Ayu 77,Saya sudah pernah coba tapi dia butuh NPWP saya tidak tahu apa NPWP saya masih berlaku atau tidak,TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.29.20",6281339679779,Ahmad 90,"Walikumsalam.. Maaf kk Aisyah, Saya mau tanya dulu, untuk tabungan emas ini iuran bulanannya berapa 🙏",TABUNG_EMAS,0.77,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"10 Feb 2026, 15.37.11",628176592013,Putri 97,Saya ingin komplain terkait transaksi di ATM dan kartu saya terblokir,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.13.38",628161946555,Putri 12,Fisiknya bagaimana?,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 15.06.58",6285790809492,Siti 15,Buka tabungan E- mas lewat BYOND bisa toh,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.07.13",6282261062481,Rina 92,Belum minat untuk nabung emas Bu...😁🙏🙏🙏🙏,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.25.30",6285220770441,Ahmad 97,"nabung emas 0,02 gr simpanan awal tabungannya brpa/bln?",TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.49.43",6281310713571,Eko 36,Mengapa harus tabungan E-mas,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.21.50",6285825430774,Rina 83,Ia Bu SDH di install,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.10.07",6285733521513,Sri 68,0.02 grm brp rupiah,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 18.00.38",6285292209860,Rina 73,"Sy mau..
+Kalau hrga 
+0.02 berapa belum di jawab",TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.56.17",628129835903,Siti 42,Dan jg berapa biaya admin tahunannya,TABUNG_EMAS,0.76,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 19.10.31",6285540596083,Andi 27,ap buka rekening tabungan Mudharabah harus ke bank BSI,TABUNG_EMAS,0.75,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"11 Feb 2026, 14.03.57",628176592013,Eko 35,mau komplen dari kemarin BYOND ga bisa dibuka kenapa si?,TABUNG_EMAS,0.75,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"8 Feb 2026, 23.14.53",628158832982,Joko 34,Bagaimana cara memblokir ATM melalui mobile banking,TABUNG_EMAS,0.75,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.47.05",6285328847726,Ayu 91,0.2 tu brpa rupiah,TABUNG_EMAS,0.75,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.44.16",6285869270107,Ahmad 95,Biaya bulanan berapa?,TABUNG_EMAS,0.75,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.21.58",6283167623466,Ayu 48,Apa keuntungan sya buka tabungan emas,TABUNG_EMAS,0.75,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.20.21",6285328836885,Putri 31,Nabung nya perbulan berapa?,TABUNG_EMAS,0.75,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 15.21.10",6285265540563,Dewi 69,"Klu butuh uang, saya jual berapa lama waktu yang dibutuhkan",TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"30 Jan 2026, 14.39.58",6281233439037,Sri 28,Kalau nabung emas dapat bsi gold atau antam?,TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 16.12.23",6285173118603,Putri 51,"Apakah berbentuk kalung, cincin atau apa?",TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.17.40",6281244998815,Ahmad 51,"*MAKANJA' HOME CARE*
+
+✨ LAYANAN SUNAT MODERN
+✅Sunat modern minim nyeri
+✅Proses cepat dan aman
+✅Alat steril
+✅Tanpa jahitan / Jahitan minimal (sesuai indikasi)
+✅Penyembuhan lebih cepat
+✅Bisa dilakukan di rumah pasien 
+
+UNTUK SEMUA USIA
+👶🏻Bayi & Anak-anak
+👦🏻Remaja
+👨🏻‍🦰Dewasa
+🫶Pendekatan ramah anak & edukatif untuk mengurangi rasa takut.
+⭐ KEUNGGULAN KAMI
+✅Ditangani Perawat Profesional (Telah mengikuti pelatihan dan Telah Sertifikasi)
+✅Mengutamakan standar keselamatan pasien
+✅Privasi terjaga",TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.16.53",6283813651198,Sri 51,Bisa pinjem uang gak,TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.27.19",6281539921783,Rina 85,"Nunggu harga 2,5 aja",TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 15.06.46",628129835903,Dewi 84,Bgm mana anda meyakinkan itu bebas dari riba dan spekulasi,TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.04.10",628129835903,Sri 51,Jadi prinsipnya tabungan emas itu spt kita nabung biasa tp underlying nya emas atau dikonversikan dng emas bgt ya prinsipnya,TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.24.09",6285777760344,Putri 63,Kalo mau beli.. Hrg nya brp y,TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.25.46",6282280109692,Siti 44,Ga ada mas untuk di tabung,TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.17.22",6285399947740,Siti 16,Pakah tiap  bulan kita nabung dan berapa,TABUNG_EMAS,0.74,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 16.09.26",6281370847805,Rina 35,Cara untuk membuka tabungan emas gimana ya,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.21.27",628989383959,Siti 42,"Nabung ya berapa 
+Berapa lama
+Dan dpt berapa",TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 20.54.57",6285750241030,Eko 79,Apakah nabung emas di BSI ada biaya titip?,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.15.22",6282366161711,Joko 65,"Dr beli hrg BRP Bu,",TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"9 Feb 2026, 18.30.37",6285260824045,Rizky 26,cara buka tabungan emasnya gimna,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.18.19",6289690288991,Andi 76,Berapa per gramnya,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 16.21.28",628117779077,Sri 88,Klau langsung potong 50 ribuan nggak apa Aisyah ?,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.24.07",6281377423397,Andi 59,Nabung emas gimana,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.33.49",6285220125354,Eko 53,Saya sudah ada rekening bsi nya kok buk,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 19.00.24",6281542344484,Dewi 94,Buka tabungan emas lewat Byond gimana caranya,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.38.44",62811513837,Ahmad 10,Apakah tabungan emas tidak termasuk riba,TABUNG_EMAS,0.73,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.15.56",6285255734123,Andi 49,Nabung emas atau beli emas?,TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 22.03.35",6282378953416,Rina 69,Pinjam dana bisa gak,TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.54.56",6285742182682,Dewi 23,"Tertarik kak 
+Keuntungan dan fiturnya gimana kak?",TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.19.09",6287802558582,Budi 45,berapa lama proses cetak?,TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 16.09.43",6285752790469,Siti 71,"sy sdh ikut ivestasi  0,05  jd klw  nambah 0,05  caranya gimana",TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 15.17.28",6285332603769,Sri 18,"Waalaikumsalam...untuk nabung emas tidak dulu,karena syariat islam hukum nabung emas hukum riba,dosa riba termasuk dalam dosa besar...",TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.57.02",628128895967,Ahmad 92,Berapa skrg perbulannya bu?,TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.44.41",6281363467650,Dewi 63,Wktu itu ditanya npwp di byond,TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 17.08.20",6287845263345,Ahmad 72,Harga berapa skrg?,TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.18.50",6281539921783,Andi 30,Seumpama mau ngambil fisinya gmn,TABUNG_EMAS,0.72,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.26.53",6282310953461,Ayu 58,"Kalo menyimpan mas yg sdh ada d Bsi ,apa bisa seperti itu?",TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.16.24",6287802558582,Siti 36,E-mas itu sistemnya gmn?,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.26.25",6285645461662,Ayu 55,mau tanya soal tabungan emas,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"15 Feb 2026, 09.32.11",6282264443930,Ayu 26,Cara buka rekening,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.52.29",6282297713315,Ayu 95,Cara buka rekeningnya gimana lalu untuk tiap bulannya itu berapa,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"9 Feb 2026, 18.27.15",6285260824045,Andi 65,perbulan berapa yg harus d bayar,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.24.38",6282139785240,Rina 13,Steleh nabung emas bisa diambil emasnya dan apa bisa dijual kembali,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.19.02",6281257817643,Putri 86,Gmn cara Nabungnya,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 11.11.57",6283141045726,Eko 42,bisa tanpa DP .,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.02.00",6281935125772,Andi 49,Harus menyimpan brpa?,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.13.55",6281310661274,Ahmad 40,Untuk perhari ini harganya berapa?,TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 11.04.33",6282210925858,Siti 74,"Program giveaway saja, kalau gk ada jgn chat",TABUNG_EMAS,0.71,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.15.45",6287739182081,Eko 72,Ya syukur lah kaluk dik Aisyah bisa nabung emas,TABUNG_EMAS,0.7,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.26.14",6281313411411,Eko 81,Tabungan BSI sudah punya,TABUNG_EMAS,0.7,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 13.27.31",6285161170112,Sri 11,"Mohon maaf mau bertanya,  kalau mau tukar rupiah ke real melalui bank BSI ,bagaimana ya?",TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 06.01.04",6282240460525,Rina 89,Tabungan emas digital bagaimana?,TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.36.22",6285869833964,Budi 24,Harga beli brp sekarang kak?,TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.31.06",6282210883729,Rizky 62,tabungan emas itu maksut'a bagaimana kak,TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.29.50",6283857637614,Rina 98,"Saya sudah punya tabungan BSI. Nah pertanyaannya, jika tabungan emas dijual karena butuh dana, siapa yang membeli? Apakah kita mencari pembeli sendiri?",TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.15.07",6285161251903,Putri 30,Sayangnya performa BYOND masih sangat kurang bagus. Sering error,TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.33.31",6285257931885,Dewi 68,Minimal setiap bulan nabung brp?,TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.40.52",6281212117818,Joko 36,Kirain simulasi tabungan emas,TABUNG_EMAS,0.69,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.28.48",6281282530445,Sri 16,Ga bisa langsung dapat fisik nya setelah setor uang nya?,TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.47.10",628982669941,Putri 64,Harus ada DP dulu atau langsung nabung aja?,TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.16.25",6282216021509,Joko 64,Sy gak berani nabung emas kecuali beli enas fisik lgs di tangan,TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.36.11",6282243563583,Ayu 23,"Waalaikumsalam siap, saya sudah buka tabungan emas BSI",TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 20.56.42",6281282700161,Sri 51,Dapat pembagian hasil tidak dari tabungan emas,TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"11 Feb 2026, 14.07.36",628176592013,Dewi 33,Dari kemarin BYOND bermasalah terus kenapa si?,TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"2 Feb 2026, 18.13.25",6281335822911,Ayu 12,itu nama tabungannya E-mas atau Emas?,TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 15.13.29",6281553586966,Ayu 92,"jika tabungan emas, apakah emasnya bisa difisikkan",TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.18.28",628119998459,Joko 71,Udh punya nanti tunggu murah aja hehe...,TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.23.38",6281344332174,Joko 36,"Info lain 
+Klo kita uda butuh mau jual gimana",TABUNG_EMAS,0.68,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.45.40",6282386960744,Rizky 38,Coba jelaskan fitur lain & cara transaksi nya kk..,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 20.56.09",6285750241030,Ayu 62,Selain biay titip apakah ada potong pajak pertahun atau hanya pajak pembelian?,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.17.25",6281325102835,Dewi 65,Kalau yang saya inginkan tabungan emas berarti fisiknya emas mbak,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.20.55",6285399947740,Eko 69,Misalkan kita sdh memiliki rekening di bsi apakah harus buka lagi u tabungan emas,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.04.00",6283826710668,Eko 14,Utk pencetakan fisik apakah ada biaya nya,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.27.17",6285268794277,Eko 29,"Ok, gmn KLO kami butuh dana cash??",TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.24.05",6281340556745,Rina 27,Kalau buka melalui cs gimana apa tidak dapat juga buku tabungan nya,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.29.30",6285691462258,Ahmad 82,apakah harus pakai DP ?,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.26.17",628112680975,Joko 11,Berarti yg penting saya mabung dulu utk penarikan bisa kapan saja begitu pa ....,TABUNG_EMAS,0.67,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.15.35",6285838370910,Eko 28,"Kalau sudah punya rekening BSI, apa bisa langsung nabung emas?",TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.45.23",6285260007063,Andi 29,"Tabungan emas kan kita gak menerima emasnya, cuma tabungan. Dimana yadan biyadinnya?",TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"14 Feb 2026, 19.06.48",6285229346895,Ayu 33,Kalau boleh tahu cara nabung emas itu bagaimana caranya ya mba,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.12.44",6281325102835,Rizky 24,Wa'alaikumussalam Warahmatullahi Wabarakatuh . Sepengetahuan saya kalau tabungan emas ya wujudnya emas betulan bukan digital,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.17.16",6281347340157,Rizky 24,"Wa alikumussalam 
+
+Bisakah langsung dari aplikasi Biyon",TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.14.25",6285265540563,Ayu 95,Klu kita jual atau mau bentuk fisik apakah bisa,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.03.23",628128895967,Putri 92,Kalau buka tabungan emas bagaimana caranya?,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 15.04.31",6281310713571,Eko 51,Apa keuntungan BSI dengan mengadakan tabungan E-mas?,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.44.02",6282292730254,Eko 42,Tabung emas itu prosesnya gmn kak?,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"17 Feb 2026, 12.59.55",6289529684871,Sri 72,Udah punya byond BSI,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.15.46",6287886162785,Joko 57,"waalaikumsalam warahmatullahi wabarakatuh, sy sdh  ada tabungan emas di BSI",TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.31.05",6282164337372,Ayu 10,Jika mau jual gmn?,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.20.50",6281539921783,Andi 13,Harganya brp skrng,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.40.46",6283826710668,Siti 16,Kalo untuk biaya admin tiap bulan nya ada nggak,TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 15.10.41",628118080204,Andi 72,"Terima kasih telah menghubungi
+*Pondok Balqish*
+
+*Berikut rincian produk kami:*
+- Ruko
+- Villa
+- Kost-an
+- Ruang ATM center/Vending Machine
+- Stand Kuliner
+- Warehouse
+- Produk Pertanian
+
+*Bila ada pertanyaan, dipersilahkan?*
+
+*Central Office Balqish Al-Haritz Purwanto (BAP-Group)*
+📌 Jl.Kleringan, Gowongan Jetis, Kota Yogyakarta - 55233 Indonesia
+
+*Berikut Katalog👇:*
+https://linktr.ee/PondokBalqishGroup
+
+*Berikut Link WA👇:*
+https://wa.me/+628118080204
+
+*Berikut Website👇:*
+http://bit.ly/ProfilePondokBalqish",TABUNG_EMAS,0.66,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.36.18",6282115349005,Dewi 99,Kalo fisiknya ada nggak neng,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 20.54.28",6281282700161,Dewi 23,Sama tidak dengan tabungan rupiah,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 16.02.40",6285904313842,Dewi 40,trimakasih mbk sy sudah punya tabungan ems di bsi,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"20 Feb 2026, 13.20.44",6285213856685,Ahmad 67,Mau nabung deposit aja kak,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 16.54.20",6281327719689,Andi 38,Apa beda nya sama tabungan biasa?,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.59.25",6282244373606,Rina 44,Cr pinjman sulitttt,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 16.20.02",628117779077,Rizky 56,Pakai deposit nggak,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"12 Feb 2026, 13.08.07",6281292484669,Ahmad 92,Tabungan biasa?,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.30.42",6282115349005,Rizky 85,harganya berapa,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 16.38.12",6281556439643,Ahmad 27,"Itu berapa harga nya 0,02",TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.35.11",6281326817440,Putri 90,SDH nabung emas di bsi,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.23.59",6282171272151,Sri 12,Iya tabungan emas fiturnya dimana,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.58.55",6285394233660,Budi 50,Saya sudah punya aplikasi byond bsi,TABUNG_EMAS,0.65,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.20.31",6282191484876,Ayu 34,Terdekat dari kediaman sy,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.11.05",6282275131854,Sri 69,Sekali2 kirim bonus dong buat belik daging megang,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.16.59",6282271252549,Dewi 67,Saya sudah nabung emas,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.43.14",6281363467650,Andi 10,Harus pakai npwp? Klo beli langsung nggak pakai.. udh banyak kali kena pajak,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"12 Feb 2026, 22.12.22",628994949911,Budi 15,berapa minimal untuk bisa nabung emas?,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.25.02",6281213409627,Siti 93,Y SDH jelas KK Tetang tabungan emasx terima kasih🙏,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.56.08",628129835903,Putri 53,Kalau mau ditukar fisik berapa biayanya,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.54.47",6281310713571,Rizky 85,Kapan nasabah bisa melakukan penarikan tabungan E-mas dan minimal di nominal berapa?,TABUNG_EMAS,0.64,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"20 Feb 2026, 11.20.58",6282272259159,Sri 25,"Izin nanya bu, sistim pembayarannya bagaimana",TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.52.05",6281374088221,Rizky 50,Saya sudah ada tabungan BSI nya kak..,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 21.31.35",6285323148019,Rizky 42,Bagaimana caranya kerja nya tabungan Emas....,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.49.24",6285371277430,Siti 47,Harga mas sekarang berapa 1 mayam nya kak,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.45.38",628982669941,Dewi 48,Sistem nabungnya tiap bulan atau bagaimana?,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.04.25",6285279117107,Siti 59,Klo tabungan blom tau,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.23.46",6281320526809,Rizky 18,Memang skrg beli itu berapa harganya,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.03.04",628124190220,Eko 27,Mau cek tabungan emasku di BSI,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.34.54",628117892709,Joko 51,ada yg dp 0% ya,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.50.29",6285717033642,Siti 38,Ada syarat yg lain ngga selain nabung 50rb,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.58.10",6285201011100,Andi 45,Ada dp kah klo buka tabungan?,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"10 Feb 2026, 14.06.33",6287851599296,Siti 27,akun byond saya terblokir saya harus bagaimana?,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 11.03.54",6282210925858,Sri 14,Ditunggu giveaway,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 15.07.08",6282389402280,Sri 31,Trus kalau kita mau mengambil nya gimana caranya,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.39.35",6281298732100,Rina 33,Nabungnya setiap bulan atau gmn,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.14.35",6281355460640,Putri 21,Setoran awal minimal berapa yah?,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.29.08",6281375959656,Andi 81,Apa ada potongan per bulan,TABUNG_EMAS,0.63,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"4 Feb 2026, 14.36.26",6283829729272,Siti 22,"Beri nasihat kepada saya, kalau saya ingin nabung emas untuk tujuan tabungan sekolah, yang rencana dibauarkan 1 tahun lagi, senilai 30jt",TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 06.02.40",6282240460525,Rizky 31,"Mau, coba jelaskan lebih rinci tentang Tabungan E-mas BSI. Bisa dimulai dari nominal brp?",TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 07.58.54",6281340924291,Joko 73,Multiguna boleh kak,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 16.32.18",6282170921837,Putri 43,gmn prosedur tabungan emas,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.16.31",6285838370910,Budi 75,Untuk cara jualnya nanti bagaimana?,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.23.38",6285790809492,Andi 78,Apa keuntungan/ kelebihan tabungan E- mas dengan tabunngan wadiah/ mudharobah,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.13.50",628125905314,Joko 34,berapa harga per gramnya,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 16.24.24",6281324168579,Budi 44,Nabungnya gimana klau ngambil gimana,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.20.21",6285768835352,Ayu 71,"Kok bahasa nya tabungan ya, kan nggak boleh",TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.28.26",628126820962,Andi 35,Maksud saya ketentuan syariah nya bagaimana ❓,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 18.23.00",6285358847943,Dewi 27,Tarik fisik biaya tambahannya berapa dan berapa lama dapat fisiknya?,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.32.03",6285842264765,Putri 99,Tarik fisik bisa dimana saja??,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.53.21",6285257159643,Siti 27,O tadi saya buka kok saya baca ada biaya 24 ribu,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.56.54",6285790809492,Putri 35,Coba kasih contoh saja seandainya aku buka tabungan E- mas 2 grm berapa harus setor?,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.25.14",6281346578958,Ahmad 81,Untuk tabungan emas nominal minimum berbagai,TABUNG_EMAS,0.62,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 21.35.19",6285323148019,Rina 70,"Kok bisa memilih/ membeli sesuatu yang ia belum tau fisiknya...
+ Bukankah harganya fluktuatif....",TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 16.35.23",6285230713694,Rizky 97,Z lupa pin beyond,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 17.00.33",6281381413360,Dewi 60,Saya sudah menabung emas dan sudah masuk tahun ke 5 atau 6 bu 🙏🏼,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"14 Feb 2026, 05.32.25",628127980966,Sri 24,Waalaikumsalam bagaimana caranya buk dan apakah ini resmi,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.08.43",6285770928862,Andi 44,Saya mau buka tabungan emas..,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.31.41",6287820051037,Andi 55,"0,2 itu harganya berapa?",TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 15.10.55",6285262027863,Eko 10,Walaikumsalam sy gak rajin nabung emas gmn tu,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.17.20",6281284008384,Joko 36,"Waalaikum salam, maaf, e-mas tidak halal.",TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.38.28",6287879476854,Joko 98,Oke nanti saya buka aplikasi byond,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.35.28",628562345379,Putri 74,Apakah ada biaya per bulannya,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.36.04",6285692894604,Eko 76,Boleh tau nominal perdananya kaa,TABUNG_EMAS,0.61,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 17.07.27",6282291353179,Budi 41,Ia saya punya rek BSI dan punya aplikasi Byond,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.54.49",628122959521,Rizky 73,Kirim emasnya saja kk😁,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 19.50.00",62818775538,Joko 38,Bisa berikan simulasinya ma,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.31.32",6281233799923,Rina 99,ini bisa diambil sewaktu2 kah,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 17.19.15",628112680975,Siti 27,Utk tarik emasnya itu gimana ...,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 15.42.32",6282326726777,Rizky 90,Hanya cetak aja,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 21.01.45",6285750241030,Budi 23,Boleh tau berapa persen pph nya bu?,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.27.07",6285262532524,Joko 98,Minimal berapa duit kita tabung nya min,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.21.29",6282198280544,Joko 15,"iya mba 
+Di Tabungan E- mas tidak ada 0,02 gram mba",TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.06.30",6283826710668,Rina 77,selain biaya administrasi rekening sebesar 24.000 ada lagi biaya lain nya nggak,TABUNG_EMAS,0.6,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.43.40",6285330213091,Siti 78,Cara buka rejeybaru,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 05.58.47",6282240460525,Putri 83,Bagaimana cara memulai tabungan Emas BSI?,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 16.47.36",6285100859705,Ayu 53,cara buka tabungannya bagaimana kak?,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.12.11",6283863285111,Ayu 18,"Posisi tabungan mas ku sdh betapa ,bisa Aksez ga",TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 16.57.28",6285240119722,Ahmad 46,"Bagaimana caranya,dan brp nominal yang hrs dibyr",TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.02.10",6285275255415,Dewi 67,Buka tabungan emas ada cashback gak? Atau potongan?,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 19.20.08",6281311016441,Dewi 23,Skema tabungan emas seperti apa,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.29.20",6285691462258,Ayu 36,Lo mau buka lagi tabungan emas gmn cara nya ya kak,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.23.37",6281999188393,Budi 46,Sekali lagi saya tidak akan buka tabungan emas yang ada saya mau jual emas kak mohon maaf,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.34.15",628562345379,Budi 45,Ini sy coba dulu aplikasi nya,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.20.02",6281316623778,Ahmad 57,Setorannya melalui MB BSI kah?,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.19.36",6282330477222,Budi 75,tabungan E-mas itu brp minimumnya kak,TABUNG_EMAS,0.59,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.59.00",6285248791095,Budi 63,"Maksudnya 
+Menabung emas setoran awal nya berapa Bu",TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 17.37.21",6283141901130,Rizky 47,Apa saja yang perlu disiapkan untuk buka tabungan emas,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 15.45.50",6282134564561,Sri 84,Sy nabung emasny fisik kak,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"6 Feb 2026, 14.10.45",6287851599296,Dewi 44,Apa itu tabungan Emas,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.15.12",628129788589,Rizky 34,Tanda bukti bahwa saya nabung emas ada apa tidak?,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.42.11",6285257159643,Rina 74,Tabungan,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.17.57",6281247328200,Dewi 67,Harga jualnya?,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.37.18",62811513837,Dewi 42,Brapa setoran awal tabungannya,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.45.42",6285256299611,Joko 46,Jadi harus buka tabungan emas dulu?,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.08.31",6285793920448,Sri 94,Maaf kak...untuk batas minimal tabung berapa??,TABUNG_EMAS,0.58,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.06.13",6281325102835,Rina 58,Assalamualaikum.  Mbak Aisyah...untuk tabungan emas itu ujudnya ada barangnya emas betulan atau hanya catatan saja?,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.05.44",628115113700,Rizky 20,"Kalau sudah beli, suatu saat mau jual, kemana jualnya..",TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"10 Feb 2026, 19.15.19",6282210648684,Ahmad 76,"Boleh,saya pun ini lagi mau nabung buat mahar nikah",TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.24.05",6285231341849,Dewi 51,Itu saya nabung emas apakah kalo mau ambil bisa berupa emas?,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 16.28.43",6285257159643,Joko 92,Cara nabung emas gimana kak,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.15.36",628127410387,Ahmad 89,"ketika cetak fisik, apakah bsi juga menerima buyback?",TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.36.45",6285225250413,Putri 67,Info tabungan emas,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.34.24",6285790809492,Ahmad 73,Kalo dicetak/ pisik kayak itu ya mbak,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.20.39",6285381994515,Budi 81,Buku tabungan sudah ada sudah lama buat,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.34.26",6281283978456,Ahmad 64,Kl sudah punya aplikasi byon apakah susah bisa menabung emas?,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.43.58",6282164337372,Siti 25,Brp biaya pemotongannya?,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.00.16",6285358866666,Joko 21,Berarti di bsi bukan yadan bi yadin? Tidak sesuai syariah dong,TABUNG_EMAS,0.57,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.52.28",6285742182682,Rina 71,Untuk cara dan keuntungan apa sih kak nabung emas itu,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.46.20",6282272955100,Rizky 32,"Kalaw sudah terkumpul, apa bisa di ambil berbentuk emasnya?",TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.01.49",6281319536200,Siti 77,Boleh Kasih info terkait tabungan emas,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.23.25",6281377423397,Siti 46,Bagaimana cara buka nya,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 15.18.30",6287802558582,Sri 43,emang barangnya ada?,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.35.23",6281325102835,Putri 92,kalau misal dikirim ke cabang indramayu bisa ngga?,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 16.29.20",6282164337372,Putri 41,Nti klu dpt THR langsung apply,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.46.47",6285849685208,Andi 63,Saya sudah punya tabungan emas di BSI kak,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.36.20",6282277640594,Eko 55,Gimana cara nabung nya kk,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 16.10.04",6285752790469,Dewi 11,dn setoran / bln  brapa,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.29.53",6282360269385,Sri 23,Cara tabungan emas bagaimana caranya?,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.58.10",6285262938793,Budi 21,Iya ada emaa fIsiknya tidak,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.25.28",6281316832234,Budi 72,Bagaimana cara buka rekeningnya dan apakah ada setoran awalnya ?,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.05.14",6281370847805,Rizky 77,Rekening tabungan emas memang belum ada cuma rekening bsi udah ada,TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.33.31",6287820051037,Rizky 56,"Siap, terimakasih infonya mudah2an suatu saat nanti saya bisa nabung emas",TABUNG_EMAS,0.56,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.21.37",6281316832234,Rina 40,Bagaimana skema menabungnya ?,TABUNG_EMAS,0.55,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.18.50",6282390647052,Putri 53,"Kalau kuta Sudah punya rek dan sudah memiliki Aplikasi BYOND, Apakah perlu juga melengkapi Verifikasi data...?",TABUNG_EMAS,0.55,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"21 Feb 2026, 11.37.34",6281261400542,Ahmad 55,Berapa biaya yg dibebankan ke nasabah?,TABUNG_EMAS,0.55,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.16.54",6281247328200,Budi 66,Bisa diambil kapan aja mas nya,TABUNG_EMAS,0.55,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.13.55",6281276898100,Eko 10,Hasanah card,TABUNG_EMAS,0.55,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.05.48",6285752790469,Rina 48,sy  sdh  ikut imfestasi  bu,TABUNG_EMAS,0.55,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.23.30",6285257931885,Eko 26,Keuntungannya apa?,TABUNG_EMAS,0.55,1,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.49.24",6285867067677,Sri 20,Cetak fisik emas berapa lama?,INFO_EMAS,0.98,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.20.00",6282389402280,Joko 14,Umpa saya mau nabung 20 juta emas di BSI gimna caranya,INFO_EMAS,0.98,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.20.53",6282255109999,Ahmad 14,Seperti apa akad nya ? Setelah di beli bisa diterima kah fisik emas nya?,INFO_EMAS,0.98,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.27.23",6285201011100,Ayu 66,Mksdx cetak emas fisik ini ky mana???,INFO_EMAS,0.98,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.58.01",6281568322056,Ahmad 35,Kalau beli langsung 5 gram berapa ya mbak?,INFO_EMAS,0.98,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"17 Feb 2026, 12.03.52",6282384380612,Budi 66,"Ibu sdh buka aplikasi bahkan sdh ibu isi, utk pengambilan dananya hrs 50% dari harga emas yg d patok, tapi ibu cuma butuh 10 jt. Tadi ibu ajukan emas ibu, trf harga 47, ya kalau pengambilan uangnya minimal 50%, sedangkan ibu tuh cuma 10 jt. Kalau ibu ambil 10 jt, gimana cara byrnya?",INFO_EMAS,0.97,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.26.34",6282274838493,Eko 44,Mau nabung 5 gram kak aisya,INFO_EMAS,0.97,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.47.46",6282164337372,Budi 20,Harga beli jual di BSI apakah sm dengan Antam?,INFO_EMAS,0.97,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.38.13",6281339679779,Ahmad 45,saya minta daftar tabel untuk tabugan emas,INFO_EMAS,0.97,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.57.10",628129835903,Andi 32,Berapa harga tabu emas saat ini ler gramnya,INFO_EMAS,0.97,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.58.33",6281296333147,Rina 11,Kalo 2 gr berapa?,INFO_EMAS,0.97,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.21.34",62895610043433,Budi 44,Khusus emas ya,INFO_EMAS,0.97,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"30 Jan 2026, 14.50.17",6281233439037,Eko 32,Kalau mau jual emas lewat aplikasi apakah bisa langsung cair?,INFO_EMAS,0.96,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.36.41",6285647392680,Sri 37,"Maksudnya... 
+
+Kalau beli emas itu kontan dan dalam 1 waktu mbak aisy",INFO_EMAS,0.96,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.51.45",6281264221974,Siti 53,Owh.. Uangnya ndak bs diambil ya? Hrs emas?? Tapi kan tabungan.. 😁,INFO_EMAS,0.96,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.38.23",6281225768786,Rina 98,Ini nabung dalam bentuk emas sungguhan atau hanya sekedar namanya,INFO_EMAS,0.96,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 15.56.53",6287725063615,Rina 29,Harga emas antam nya berapa per gram nya skrng,INFO_EMAS,0.96,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.35.56",6285730041044,Sri 19,Kalau tabungan E emas ini prosedurnya gimana mbak?🙏,INFO_EMAS,0.95,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.23.22",6285201011100,Eko 83,Info harga emas 0.02 gram bu pertgl hari ini,INFO_EMAS,0.95,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.50.52",628982669941,Ahmad 48,Iyaa nanti saya lihat dulu harga emas di byond by BSI nya,INFO_EMAS,0.95,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 15.41.50",6282326726777,Joko 34,"Kalau beli emas, fisiknya juga dapat kak",INFO_EMAS,0.94,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"17 Feb 2026, 09.15.24",6282384380612,Dewi 65,"Waalaikumussalaam Aisyah. Ibu sdh punya rekening d BSI, Ibu mau gàdai emas, emas ibu beratnya 25 grm, ibu butuh dana 10 jt, boleh?",INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"30 Jan 2026, 14.51.53",6281233439037,Dewi 46,"Saya sekali menabung 65.000 rupiah, butuh berapa kali menabung untuk mendapatkan 2 gram?",INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"6 Feb 2026, 14.11.00",6287818595978,Ayu 40,Apakah bsi saat ini ada promo emas?,INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"4 Feb 2026, 14.27.13",6283829729272,Ayu 21,Selain emas ada apa lagi ya?,INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.19.08",628161946555,Ahmad 35,Bagaimana proses cetak emasnya?,INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.27.20",6285790809492,Ahmad 70,"Berarti kalo setor/ nabung sama dengan beli emas? 
+Kalo narik/ ambil sama dengan jual? 
+Gitu mbak?",INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 18.24.34",6285358847943,Putri 17,"Nah, ini yg aku kurang sreg.. Terlalu lama proses serah terimanya, sedangkan transaksi emas seharusnya sudah ada fisiknya, jadi aneh jg kalau terlalu lama gitu untuk sekedar tarik fisik emas yg sebenarnya sudah kita miliki",INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.59.30",6285358866666,Ayu 81,"Bagaimana secara hukum agama. Karena beli emas kan yadan bi yadin, agar terhindar riba",INFO_EMAS,0.93,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 15.01.05",628129835903,Rizky 85,Harga kompetitif itu bisa dikatakan demikian kalau apke to aple artinya biaya emas digital BSI ditambah biaya cetak itu minimal sama dng harga emas antam,INFO_EMAS,0.92,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"20 Feb 2026, 11.00.46",6282313251119,Rina 73,"Wa'alaikum salam
+
+Misal saya mau beli 5 g emas
+
+Terus apa yg saya lakukan",INFO_EMAS,0.92,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.07.31",6281375179036,Rizky 41,Penyimpanan emas di BYOND ada pemotongan biaya bulanan gak kak?,INFO_EMAS,0.92,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 12.11.58",628973711579,Andi 84,Apa keunggulan BSI Gold dibanding Antam?,INFO_EMAS,0.92,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.53.54",6285257159643,Ayu 97,"Oo gitu ya ,tadi aku buka fitur bank emas trus disuruh scan KTP tpi belum aku lakukan",INFO_EMAS,0.92,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.50.50",6285260007063,Ayu 56,"Gimana caranya emas diserah terimakan dalam bentuk digital. Yang namanya serah terima itu ada uang, ada emas. Kalau digital bukan emas itu. Emas itu logam mulia ada bentuknya. Bukan khayalan.",INFO_EMAS,0.91,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.19.35",6282310953461,Budi 57,"Bearti jatoh nya sama dgn nabung ya,apa lebih menguntungkan tbgn emas?",INFO_EMAS,0.91,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 12.06.50",628973711579,Putri 42,Perbedaan BSI Gold Reguler dan BSI Gold Platinum,INFO_EMAS,0.91,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.19.18",6281247328200,Ahmad 33,Hukumnya gimana jual beli emas digital kak?,INFO_EMAS,0.91,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"30 Jan 2026, 14.39.03",6281233439037,Rizky 45,Kalau mau yang emas antam bagaimana kak,INFO_EMAS,0.91,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.30.33",6281344499035,Rina 72,Klo 1gram,INFO_EMAS,0.91,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.11.28",6281379372180,Dewi 48,Berapa harga emas hari ini,INFO_EMAS,0.9,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.24.23",628112680975,Eko 22,"Ok mba... Maksh infonya
+Klo misal saya dulu ambil 10 gram berarti nanti saya ambilnya  klo saldo saya sudah mencukupi sampai harga 10 gram apa bagaimana",INFO_EMAS,0.9,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 18.39.44",6281225768786,Ayu 12,Kalau pencairan dalam bentuk emas secara fisik ada contohnya tdk?,INFO_EMAS,0.9,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 22.21.06",6285895677395,Putri 97,Mau tanya harga emas Antam yang gramnya paling kecil berapa buk ?,INFO_EMAS,0.9,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.20.37",6282121929685,Budi 17,Apakah emas fisik nya ada?,INFO_EMAS,0.89,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 17.33.52",6285340402614,Andi 85,Saya pengen beli emas langsung kalau sudah cukup uangnya saja,INFO_EMAS,0.89,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.32.29",6289631055560,Ahmad 91,"0,02 gram berapa duit",INFO_EMAS,0.88,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"20 Feb 2026, 11.29.28",6282272259159,Putri 18,Apa perbedaan BSI Gold priority dengan BSI Gold reguler,INFO_EMAS,0.88,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.38.03",6281276689228,Ahmad 40,Kalau emas gmn bu,INFO_EMAS,0.87,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.23.13",628129835903,Sri 77,"Bukan metode ini melanggar syariat, syariat menerangkan kalau transaksi emas harus langsung menerima barang dan saat itu jg transaksinya, bukan berupa catatan.",INFO_EMAS,0.87,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 15.08.53",6281310713571,Sri 57,berapa harga emas saat ini atau pertanggal 13 Februari 2026?,INFO_EMAS,0.87,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 18.26.43",6285358847943,Ayu 97,Tp bagaimana dengan emas yg kita tabung ternyata belum berbentuk fisik? Berati kan belum ada fisiknya tu,INFO_EMAS,0.87,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.49.11",6285241834541,Ahmad 30,"0,02 gram berapa rupiah?",INFO_EMAS,0.87,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.29.10",6285257931885,Dewi 37,Minimal emas dijual dpt untung brp tahun?,INFO_EMAS,0.87,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.09.26",6281522800255,Ayu 41,Emas digital dalam bentuk apa?,INFO_EMAS,0.87,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.46.54",6282154276575,Sri 36,"0,02 gram bisa ya",INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.42.13",6281298732100,Joko 92,"Jadi 0,02 gram itu kalau di uangkan brp",INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"15 Feb 2026, 17.14.42",6287821808016,Ayu 70,Ini investasinya berupa fisik emas ?,INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"21 Feb 2026, 14.25.59",6282385480777,Eko 30,Apa kelebihan dan kekurangan dari BSI GOLD DAN PT ANTAM,INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.54.33",6282260016173,Joko 18,"Tapi aku ngk punya emas,kata kawan kalo mau emas cari ke gunung.",INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.27.08",6282393836953,Budi 11,Jika jual emas harus ke bsi ya,INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.21.05",6285248142533,Dewi 27,Di BSI Amuntai bisa gak cetak emas fisiknya,INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.29.23",6281567685590,Rina 92,Apa itu tabungan e-emas,INFO_EMAS,0.86,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.57.27",6285257159643,Andi 77,O.02 gram itu uang berapa,INFO_EMAS,0.85,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.19.22",6281809083944,Sri 77,Brpa 2 gram emas invest?,INFO_EMAS,0.85,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 20.28.02",6282227031589,Dewi 13,Brp harga antan 5 gr,INFO_EMAS,0.84,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.32.30",6281325102835,Dewi 16,Kalau tabungan emas tapi di bsi indramayu apakah bisa dicetak di bsi semarang mbak?,INFO_EMAS,0.84,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.03.37",6281935125772,Rizky 29,Iya tentang produk BSI emas,INFO_EMAS,0.84,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.31.12",6282361480222,Andi 53,Mohon update list harga emas terbaru donk,INFO_EMAS,0.84,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.34.07",6281282530445,Ayu 99,Iya saya pengen nya langsung dpt fisik Emas nya setelah setor uang.. jadi kalo harus nunggu di cetak saya tidak mau,INFO_EMAS,0.84,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.15.46",6281328739245,Dewi 75,"0,02 gram brp?",INFO_EMAS,0.84,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.27.20",6285328836885,Joko 50,Cara buka tabungan e-emas gimana?,INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 16.06.01",6285360856469,Dewi 44,"Kalau bole tau emas nya emas apa ini?
+Dan tabungan awal brapaan?
+Dan bagaimana cara nya mulai tabungan di aplikasi BYOND",INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 12.17.49",628973711579,Andi 18,Prediksi emas di Q4 2026?,INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.32.30",6285790809492,Ahmad 72,Ya mbak masih penasaran di rekening nanti muncul tdk nominal uang tapi banyak / gram emas ya mbak?,INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"6 Feb 2026, 09.20.44",6285219546102,Ahmad 81,Kenapa kamu cuma jualan emas saja?,INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.54.07",6281370847805,Dewi 51,"0,02 gram itu berapa duitnya kak",INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.23.22",6289642666299,Rina 95,"Kalo 0,02 gram kira uang rupiahnya brp",INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.55.06",6285394233660,Rina 15,Nantinya itu yang di dapatkan bentuk uang atau emas,INFO_EMAS,0.83,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.43.58",6281298732100,Putri 82,Seandainya kita perlu bisa di tarik dalam bentuk uang atau harus emas,INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.17.29",6281320526809,Dewi 61,"Saya SDH nabung 10 gr di THN 2025, ingin lagi berapa skrng.?",INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.20.29",6285768835352,Ayu 83,Yang boleh itu beli cash dapat emas fisik,INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.53.58",6285260007063,Ayu 26,Coba jelaskan dulu apa yang dimaksud dengan emas,INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"21 Feb 2026, 14.28.48",6282385480777,Rizky 31,Ada pendapat an aktif apa ketika ambil dari PT ANTAM,INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.21.02",6281342723289,Rina 90,"Emas 23 karat, lima gram",INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.25.47",6285393372804,Putri 41,Oh emas di gital ya,INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.26.11",6289654999269,Budi 11,D kua ud ada brpa org masuk  investasi emas,INFO_EMAS,0.82,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.37.04",6281298732100,Andi 11,Ngikuti harga emas di pasaran atau gmn,INFO_EMAS,0.81,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.19.28",6285768835352,Ayu 36,Beli emas kan harus cash,INFO_EMAS,0.81,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.36.56",6285726973525,Budi 66,Tanya emas,INFO_EMAS,0.81,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.40.51",6289661945966,Rina 45,"Klw gt mah harus ke bank langsung ya kak biar jelas
+Klw di aplikasi bank mah saya kurang faham,
+Saya udh lihat harga emas ya rata2 ya hampir 3 juta ya",INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 17.37.41",6281333040405,Andi 65,"pembelian perdana 0,02 gram sbgai syarat buka rekening, kalau di rupiahkan brapa ?",INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.45.28",6281556439643,Siti 41,"Nah itu harga berapa mbak,maaf soalnya sy ga pernah beli emas",INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"4 Feb 2026, 14.26.29",6283829729272,Ahmad 23,Apa untungnya saya beli BSI Emas?,INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.04.23",628994949911,Andi 41,apa itu bsi gold,INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 16.28.42",6285937016667,Eko 87,Maaf sy jual beli emas,INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 16.22.44",628117779077,Siti 57,Berapa duitnya 0.02 gram tsb,INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.24.57",628113695555,Sri 10,0.02 gram itu berapa Rp minimal,INFO_EMAS,0.8,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.16.36",628127410387,Ahmad 45,emas fisiknya antam?,INFO_EMAS,0.79,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 17.27.11",6281515000962,Budi 24,Emas Ku msih Banyak kak..,INFO_EMAS,0.79,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.46.01",6285256299611,Eko 72,Klw mau transaksi jual belu emas,INFO_EMAS,0.78,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 15.11.06",6281310713571,Rizky 81,"Karena aplikasi beyond saya sedang bermasalah sehingga tidak bisa melakukan pengecekan up to date harga emas.
+Mungkin anda bisa bantu saya menjelaskan harga emas saat ini.",INFO_EMAS,0.78,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.19.18",6285248142533,Dewi 86,Emas fisiknya ada gak,INFO_EMAS,0.78,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.10.01",6281398757267,Sri 57,Kalau udah satu gram bisa diambil ga emasnya,INFO_EMAS,0.77,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.37.40",6282277640594,Eko 12,"0,02gram berapa rupiah kk",INFO_EMAS,0.77,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.55.42",628887002399,Dewi 23,"0,02 gram itu berapa rupiah kak.",INFO_EMAS,0.77,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 16.08.21",6281310661274,Dewi 96,5gram setara berapa rupiah?,INFO_EMAS,0.77,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 15.47.08",6282134564561,Putri 14,Minim brp gram dan brp tahun kak ?,INFO_EMAS,0.76,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.07.34",6282155536347,Ahmad 88,Saya sudah 2 tahun terdaftar sebagai ispertasi EMAS,INFO_EMAS,0.76,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 15.13.39",6281310713571,Siti 17,"Karena anda tidak bisa membantu saya memberikan jawaban harga emas saat ini, dan saya masih banyak pertanyaan yang harus diajukan mengenai perhitungannya,
+Sayang sekali harus saya akhiri dan menjadi tidak berminat.
+Terimakasih
+Wassalamualaikum warahmatullah wabarakatuh.",INFO_EMAS,0.76,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 16.22.30",6281284008384,Joko 72,Jika kita beli mas kita harus terima emas langsung dalam bentuk fisik bukan digital. Salam,INFO_EMAS,0.75,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.38.24",6285212315282,Rina 84,ada katalog harga emasnya GK KA? bisa dikirim,INFO_EMAS,0.75,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.54.42",6285201011100,Ahmad 60,Emas antam ada?,INFO_EMAS,0.75,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.27.48",6281282530445,Dewi 87,Emas fisik nya ada ?,INFO_EMAS,0.75,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.15.13",6282188927669,Siti 25,"Walaikumsalam,, Kalau  misal uangnya 1 Juta berarti dpt brpa gram",INFO_EMAS,0.74,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.32.57",6285328836885,Andi 45,Rekening e-emas bisa untuk apa aja?,INFO_EMAS,0.74,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.19.18",6282210925858,Andi 41,Mauny uang atau emas lgsg saja,INFO_EMAS,0.73,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.29.55",6285230713694,Siti 54,Kalau sekian gram berapa pwe bulan,INFO_EMAS,0.73,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.16.50",6285398154315,Dewi 82,"Sudah punya tabungn Emas di BSI, Dek. 🙏😊",INFO_EMAS,0.72,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.27.28",6285647392680,Ahmad 97,Kalau jual beli emas kan pakai sistem ya dan biyadin,INFO_EMAS,0.72,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"30 Jan 2026, 14.44.19",6281233439037,Sri 93,"Jadi semisal saya nabung emas dan saldo emas digital nya ssudah 2 gram, kemudian mau saya cetak, nanti hasil cetakan nya itu antam atau bsi gold?",INFO_EMAS,0.72,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 16.44.08",6285256299611,Andi 22,Seumpama Ibu mau jual emas,INFO_EMAS,0.72,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.17.42",6285255635641,Andi 82,Yg jenis Gold kak,INFO_EMAS,0.72,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.01.41",6281276547550,Rizky 20,Mksh kk.saya seķarang lagi nyìcil emas dì bsi,INFO_EMAS,0.72,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.13.33",62895330346562,Putri 23,Sy sdh inves emas LM...🙏,INFO_EMAS,0.71,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 19.13.24",6285540596083,Joko 51,tolong di info harga harga emas mulai yg terkecil gramnya sampai yg terbesar gramnya,INFO_EMAS,0.71,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.53.46",6285260007063,Rina 31,"Saldo tabungan itu bukan emas. Emas adalah benda fisik yang dapat diraba, dilihat, dirasakan",INFO_EMAS,0.71,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.30.52",6282370123373,Sri 89,1 gram aja,INFO_EMAS,0.71,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 19.44.56",6282306610667,Rina 74,Dapet emas pa nabung duit dulu,INFO_EMAS,0.7,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.27.22",6281330290900,Rizky 78,Apakah emas nya ini benar2 ada,INFO_EMAS,0.7,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.31.46",6281212876848,Rina 16,Tabung 5 gram emas gmn caranya dan dpt keuntungan apa aja,INFO_EMAS,0.7,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 16.36.54",6285247278393,Budi 89,Untuk hari ini brp harga emas per gram,INFO_EMAS,0.7,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 20.40.23",6281363768852,Ayu 17,"Iya maksud kkak , jumlah nominal uangnya sebanyak 500 gram t brpa?",INFO_EMAS,0.7,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.36.15",6281337766881,Rina 31,Skrg emas yg 10.gram sampai berapa harganya ya kak,INFO_EMAS,0.7,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.42.54",6285260007063,Sri 51,"Emas itu harus yadan biyadin, tunai dan langsung diterima.",INFO_EMAS,0.69,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.21.54",6287835162026,Andi 86,"harga emas 0,02 berapa rupiah",INFO_EMAS,0.68,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.45.01",6285330213091,Rina 64,Berapa harga emas sekarang,INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.26.54",6283857637614,Putri 45,Jadi tabungan emas tidak harus dicetak dulu baru dijual ya?,INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 16.43.42",6285269234416,Joko 16,Kirim tabel emas nya kk Aisyah,INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 15.05.22",6281375179036,Ayu 55,"Jd kapan aja kita bisa jual emas nya
+Atau ada persyaratan penjualan",INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.30.58",6283857637614,Rizky 76,"Maaf lupa, apakah untuk pembelian ada biaya admin? Meski hanya 2gr",INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.51.05",6285360520915,Siti 29,Punya emas toko emas dijual lg ke nasabah,INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.25.51",6282268194579,Rina 20,Bukan emas fisik ya?,INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.57.05",6285358866666,Ahmad 43,Apa bisa saya dapat emas batangnya ?,INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.20.15",628117488244,Rizky 88,Boleh produk emas,INFO_EMAS,0.67,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.58.48",628128895967,Rizky 36,1 gram brp perbulannya kak?,INFO_EMAS,0.66,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"20 Feb 2026, 21.22.28",6281329446888,Rizky 16,harga emas brp per gram?,INFO_EMAS,0.66,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.22.52",6285223621764,Budi 99,emasnya emas perhiasan atau model antam,INFO_EMAS,0.66,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.12.11",6281553586966,Sri 64,"untuk mengetahui harga emasnya bagaimana, jual dan baybacknya",INFO_EMAS,0.66,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.32.12",6287791022762,Sri 23,"Walaikumsalam ga Usah kk
+Sya udah nabung beli d toko emas lgsung dapat fisiknya",INFO_EMAS,0.66,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.38.32",6281298732100,Budi 87,"0,02 gram itu brp",INFO_EMAS,0.66,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"20 Feb 2026, 06.38.51",6281216249185,Ahmad 91,Kalau boleh tahu harga emas per hari ini,INFO_EMAS,0.65,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.17.17",6285360629273,Ayu 27,Kalau kita beli 10 gram gimana sistemnya.,INFO_EMAS,0.65,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.28.04",6285393372804,Rizky 68,Sy blm ngerti soal emas digital mb terimakasih untuk infonya sementara ini nanti kalau emang sy tertarik sy hubungi kembali terimakasih 🙏,INFO_EMAS,0.65,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 22.46.55",6282370061093,Dewi 49,"kalau 0,02 gram harganya ikut pasaran mas naik turun ya kak?",INFO_EMAS,0.65,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 21.05.42",6281282700161,Ahmad 24,Sekarang harga emas berapa,INFO_EMAS,0.64,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.27.32",6281270578245,Siti 78,"Kalau 25 gram 4 tahun atau 5 tahun, berapa perbulan ya.",INFO_EMAS,0.64,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.27.03",6281270631238,Siti 23,Harga emas hari ini bagaimana,INFO_EMAS,0.64,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.59.11",628129835903,Budi 60,"Apakah harga emas yg ditawarkan BSI lbh rendah, sama atau lbh tinggi dari emas Antam",INFO_EMAS,0.64,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.15.20",6287835162026,Andi 39,bagaimana cara nabung e emas,INFO_EMAS,0.63,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.50.44",6285360520915,Rina 54,Bsi bukan emas antam atau galeri 24,INFO_EMAS,0.63,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.43.58",6285256299611,Ayu 56,Boleh tanya apa BSI juga membeli emas,INFO_EMAS,0.63,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.21.11",6281398757267,Dewi 89,Maaf kalau bli cas emas ke BSI fisiknya ready atau menunggu brp lama,INFO_EMAS,0.63,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.22.41",6282253954720,Ahmad 72,Kalau 5gram berpa 1bulannya,INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 12.11.11",628973711579,Joko 13,Apa bedanya BSI Gold dan Antam?,INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 15.17.33",6285265540563,Andi 73,"Misal saya mau beli emas 2 gram, saya mau fisik nya, apakah dalam waktu 10 hari bisa diambil",INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"6 Feb 2026, 14.10.31",6287818595978,Putri 31,Berapa harga emas hari ini?,INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.07.13",6282191484876,Andi 24,"Hrg emas hari ini kalau saya mengikuti program ini, berapa rupiah per gramnya?",INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 12.14.21",628973711579,Siti 87,Kenapa bisa emas digital lebih murah dari emas fisik?,INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 12.15.13",628973711579,Ahmad 10,Apakah emas digital itu ada fisiknya?,INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"14 Feb 2026, 19.11.56",6287888636096,Dewi 66,"Kalau beli cas emas tiap bulan 0,5 gram boleh nggak kak?",INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.40.52",6282245239929,Joko 72,"maaf... 
+tidak berani . 
+jg investasi emas yg nyata aja. kelihatan barangnya. uang aja gak jamin apalg emas😊😊😊",INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 11.11.21",6282292752607,Rina 21,Antam kan?,INFO_EMAS,0.62,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.17.27",6282154043623,Joko 99,Bisakah sy top up emas,INFO_EMAS,0.61,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 18.21.58",6281373072432,Rizky 73,Kalau tidak ada emas tapi mau pinjam dana bisakah,INFO_EMAS,0.61,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.26.53",6281264221974,Ahmad 42,Kalau harga emas berfluktuasi? Setoran gmn?,INFO_EMAS,0.61,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.00.37",6285275255415,Siti 84,Waktu cetak emas ada biaya gak?,INFO_EMAS,0.61,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.58.15",6285358866666,Andi 15,Harga emas per gram nya apa diatas pasar?,INFO_EMAS,0.61,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 13.22.06",6285213856685,Sri 45,"Ko emas melulu, 
+Nabung deposit kak gimn caranya",INFO_EMAS,0.6,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.46.28",6281298732100,Rizky 90,Oh berarti kalau emas kita sudah 2 gram udah bisa kita cairkan,INFO_EMAS,0.6,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.40.33",6281298732100,Rizky 80,Kita nabungnya pake uang tapi dapatnya emas gitu ya,INFO_EMAS,0.6,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 18.25.15",6285358847943,Budi 42,Berarti emas yg kita cicil belum dicetak ya?,INFO_EMAS,0.6,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.06.23",6282389402280,Joko 16,Kalau beli emas dinBSI bisa nggak?,INFO_EMAS,0.6,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.25.28",6285870878376,Putri 84,waduh saya duitnya udah buat beli emas di toko emas,INFO_EMAS,0.59,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 17.52.19",6285292209860,Dewi 99,Kalau batangannyang 1 gram brp..,INFO_EMAS,0.59,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.26.09",6281282530445,Ayu 49,Kalo beli cash Emas nya bisa ga?,INFO_EMAS,0.59,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.07.27",6285398642430,Ayu 67,Rincian setoran perbulan untuk emas blm jelas est 2 thn,INFO_EMAS,0.58,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.13.51",6283857637614,Budi 33,Untuk tabungan emas apakah bisa dicetak? Apa saja merk yang disediakan untuk tabung emas?,INFO_EMAS,0.58,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.47.33",6282163298987,Dewi 89,"0,02 gram emas itu berapa ?",INFO_EMAS,0.58,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.16.07",6281388558884,Ahmad 99,Apakah emas fisiknya juga ada ketika kita buka tabungan?,INFO_EMAS,0.58,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 22.44.57",6281373562191,Siti 20,"Uang nya brp ibu, setoran awal beli emas 0,02gran itu?",INFO_EMAS,0.57,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 17.57.24",6282285018245,Budi 24,Sya udah Investasi emas di bsi,INFO_EMAS,0.57,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.17.30",6281251224113,Joko 13,Mending tukokne emas ndek pasar.. 😄,INFO_EMAS,0.57,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.35.38",6281283978456,Joko 86,"Untuk biaya minimal 0,02 gram di biaya berapa ya?",INFO_EMAS,0.57,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.33.20",6281260511180,Rizky 36,Haga emas klo sy beli kes 1 gram berapa...,INFO_EMAS,0.57,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.31.40",6281240248484,Rizky 63,Emas Fisik atau virtual kak,INFO_EMAS,0.56,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.26.56",6285236263334,Putri 42,Bisakah minta rincian harga emas hari ini,INFO_EMAS,0.56,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.40.37",62811513837,Budi 16,Penentuan fisik emas d tentukan pada saat dicetak fisiknya,INFO_EMAS,0.55,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.58.00",6285358866666,Siti 66,"Kalau misal saya beli langsung 2 gram , trus saya langsung ambil batangnya bisa?",INFO_EMAS,0.55,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.47.03",6282386960744,Rina 95,"Kalo dirupiahkan 0,02 gram itu berapa kk..??",INFO_EMAS,0.55,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.02.27",6283826710668,Joko 67,Maaf nanya apakah nanti emasnya bisa di cetak,INFO_EMAS,0.55,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.21.07",6282272498670,Dewi 16,Hari ini berapa harga jual dan berapa harga beli emas KK ??,INFO_EMAS,0.55,2,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.40.34",6282337836236,Rizky 83,Saya sudah punya cicilan emas di BSI,CICIL_EMAS,0.99,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.15.08",6285765294946,Putri 11,Saya sudah ikut cicilan emas,CICIL_EMAS,0.98,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 17.02.57",6281327719689,Dewi 84,"Kayanya sy udh punya, yg ada cicilan tetap perbulan ya?",CICIL_EMAS,0.98,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 16.34.08",6285230713694,Rina 75,Misalnya z mau cicil emas 5 gram selama dua tahun berapa z bayar perbulan?,CICIL_EMAS,0.98,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.20.03",6281553597673,Siti 19,Apakah masih ada cicilan emas di bsi?,CICIL_EMAS,0.98,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.17.30",6285201011100,Eko 70,"Infox belum detail
+Emas apa yg ada?
+Berapa angsuran tiap bulanx
+Adakah biaya admin sebelum dan sesudah pelunasan
+Dll",CICIL_EMAS,0.96,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"16 Feb 2026, 19.27.26",6285281259775,Putri 79,Bagai mn dengan cicil emas mbak,CICIL_EMAS,0.95,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.59.40",6282237084864,Putri 42,Makasih saya udah cicil emasnya,CICIL_EMAS,0.95,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 06.38.39",6281216249185,Joko 88,Saat ini saya masih dalam cicilan insyaallah hampir lunas,CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"20 Feb 2026, 13.28.06",6281316308475,Ayu 77,Faham tidak Saya sudah cicil,CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 23.03.59",6285750453770,Ahmad 44,Cicil emas tanpa uang muka bisa kak,CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.00.27",628128895967,Ayu 56,Saya kak sudah ikut cicilan LM klo mau tambah apakah sama dengan inj,CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.29.41",6281370158781,Ahmad 66,"Sebenarnya saya sdh pernah cicil emas,. Tapi sya mau ganti tanggal tunggakannya  mjd awal bukan.apakah bisa?",CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.37.30",6281260511180,Dewi 72,"Ya tetep aja klo sy beli cicil harganya sudah 2 jt lebih pasti...
+😁",CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.41.11",6281289747976,Budi 61,"Iya Neng Aisyah Saya hubungi nnt klo cicilannya udah lunas ya, klo sekarang gmn mau nyicil emas buat makan aja pas-pasan",CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.39.41",6281260511180,Siti 41,"Nah itu yg sy maksud ada unsur riba nya Aisya...
+Klo sy beli cas 2 jt cicil maunya sama 2 jt jg baru bersih dari riba..
+🙏🙏",CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.04.48",628157961864,Putri 27,Saya sudah ikut cicil emas BSI yaaa,CICIL_EMAS,0.94,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 12.07.37",628973711579,Joko 67,Produk cicil emas BSI,CICIL_EMAS,0.93,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.44.11",6282154276575,Rina 36,cicilan emas dbwah 5 gram kebawah apakah boleh,CICIL_EMAS,0.93,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.34.59",6282337836236,Joko 11,Q dah punya cicilan emas di BSI,CICIL_EMAS,0.93,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.17.10",6281266564714,Andi 87,Saya punya emas sedang berjalan cicilan mba,CICIL_EMAS,0.92,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 11.10.43",6283141045726,Joko 20,beli mas .bisa dengan cicilan perbulan,CICIL_EMAS,0.91,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.17.16",6289654145448,Budi 90,Cicilan mas?,CICIL_EMAS,0.91,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.41.23",6285294618907,Eko 34,Bisa lihat tabel angsurannya kak,CICIL_EMAS,0.91,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.30.06",6281344499035,Sri 33,Cicil emas per bulan.a brpa ?,CICIL_EMAS,0.91,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"20 Feb 2026, 12.05.35",6285881807386,Ayu 86,Tanya2 dulu untuk lis t cicilannya,CICIL_EMAS,0.9,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"20 Feb 2026, 11.15.02",6283141045726,Dewi 82,saya perna di tawar kan .untuk beli mas bisa cicil .klu dari klinik mata silampari Sriwijaya eye center llg bisa Tampa dp,CICIL_EMAS,0.9,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.29.59",6281370158781,Ahmad 58,Apakah cicil emas ini ada buku tabungannya?,CICIL_EMAS,0.9,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.17.59",6281342723289,Eko 48,Berikan gambaran kalau mau cicil emas yg lima gram dan sepuluh gram,CICIL_EMAS,0.89,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 11.47.42",6282272259159,Rizky 82,Saya telah mengajukan cicilan emas namun kondisi saldo rekening saya tidak ada untuk saat ini,CICIL_EMAS,0.88,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"21 Feb 2026, 06.43.15",6281349441081,Putri 46,Udah kita angsurkan Batang emasnya,CICIL_EMAS,0.88,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.22.20",6282198280544,Sri 30,"Yg untuk di cicil tidak ada 0,02 gram di E - mas",CICIL_EMAS,0.87,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 15.43.14",6287888636096,Eko 36,"Saya mau nyicil emas antan 5 gram selama 1 tahun , berapa tiap bulan saya harus nyicilnya?",CICIL_EMAS,0.86,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.57.08",6285248791095,Joko 16,"Kita ni msh ada cicilan emas sampai Juni 2026
+
+Bagaimana kalau memulai setor awal sekarang",CICIL_EMAS,0.86,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.34.48",6282339007301,Rina 37,Ini umpama kak 5 gram nya hrga 14 jut .... Kira kira 1 Thun brapa ya kak cicilan nya,CICIL_EMAS,0.86,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.45.42",6282126552008,Budi 68,Kalau untuk cicil emas gimana,CICIL_EMAS,0.85,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 12.13.13",628973711579,Rizky 77,Lebih baik nabung emas atau cicil emas?,CICIL_EMAS,0.85,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 16.05.25",6285694873759,Joko 40,Angsuranyh,CICIL_EMAS,0.85,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.21.53",6281370158781,Andi 21,Mau cicil emas,CICIL_EMAS,0.85,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.57.01",6281230787840,Dewi 68,Syarat dan cicilan,CICIL_EMAS,0.85,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 17.33.01",6281289747976,Joko 35,Walaikumsalam warohmatulohi wabarakatuh... Nnt aja deh soalnya saya masih punya angsuran motor,CICIL_EMAS,0.85,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.25.27",6287888636096,Rizky 71,Tanya detail cicilan per bulannya dong kak,CICIL_EMAS,0.84,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.57.12",6282254247771,Ayu 92,Bagaimana cara utk kredit emas 50 rb perbulan,CICIL_EMAS,0.84,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 15.20.18",6285730041044,Siti 91,"Waalaikumsalam wr wb,mohon maaf mbak yg cicil emas 20 gr blm selesai mbak,biar selesai dulu yg cicilan🙏🙏",CICIL_EMAS,0.84,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.34.43",6285328836885,Eko 63,Bedanya tabungan e-emas dengan cicil emas apa?,CICIL_EMAS,0.83,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 21.15.07",6285338317856,Eko 55,Apakh sistim cicilan emasnya?,CICIL_EMAS,0.83,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.15.36",6281260837422,Siti 83,"gg usah la dek,, msh ada cicilan di BSI😁",CICIL_EMAS,0.81,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.33.08",6282339007301,Putri 84,Kalu 5 gram 1 tahun brapa ya kak cicilan nya kira kira,CICIL_EMAS,0.81,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.35.55",6281260511180,Sri 82,Ok klo harga pasar kita bilang 2 jt beli cas nah klo sy beli cicil berapa kira2 klo sy ambil 5 bulan cicilan...,CICIL_EMAS,0.8,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 17.07.58",6285260658412,Budi 39,Boleh sekalian cicilan bulanan,CICIL_EMAS,0.8,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.26.23",6285742654464,Rina 23,"Makasih infonya kak, Alhamdulillah..ini saya juga sudah punya cicilan emas🙏",CICIL_EMAS,0.8,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"20 Feb 2026, 11.03.22",6282313251119,Rina 25,Misal cicil emas 5 g waktu 1 th brp yang harus saya setorkan,CICIL_EMAS,0.79,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"17 Feb 2026, 09.26.50",6282384380612,Budi 76,Ibu sdh nabung emas juga. Sekarang ibu sdg nyicil emas 10 grm,CICIL_EMAS,0.78,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 17.46.26",6281354308340,Rizky 91,Angsuran perbulan berapa ya,CICIL_EMAS,0.77,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.53.52",6282291673957,Sri 35,Cicil emas,CICIL_EMAS,0.77,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.31.53",6281260038818,Putri 40,Bisa lihat tabel cicilan emas,CICIL_EMAS,0.76,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 19.58.49",6285360066241,Ahmad 34,bisa cicil?,CICIL_EMAS,0.76,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.18.14",6281334247090,Rina 42,Masih ada cicilan emas kemaren blm lunas 😂😂,CICIL_EMAS,0.76,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.23.29",6281247232237,Budi 40,"Iya bu
+Sy sementara cicil emas",CICIL_EMAS,0.75,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"20 Feb 2026, 11.13.14",6283141045726,Andi 83,klu ambil 5 gram . cicilan perbulan berpa,CICIL_EMAS,0.75,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.58.48",6285323023460,Rina 41,Bagaimana cicilan emasnya?,CICIL_EMAS,0.75,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.55.47",6282386960744,Siti 67,"Recomendid mana fitur beli emas atau cicil emas, kk..??",CICIL_EMAS,0.75,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.21.07",6285353007679,Sri 16,Saya sudah cicil emas di BSI,CICIL_EMAS,0.74,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.27.44",6283857637614,Sri 82,"Kalau cicil emas, apakah DP mengikuti aturan atau bisa diperbesar?",CICIL_EMAS,0.74,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"9 Feb 2026, 18.28.02",6285260824045,Joko 24,iyaa coba jelaskan cara hitung angsuran bulanan cicil emasp,CICIL_EMAS,0.74,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 16.04.54",6285201011100,Ayu 75,"Ada tabel harga emas, gramasi dan angsuran yg disesuaikan dgn kemampuan",CICIL_EMAS,0.73,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 19.04.03",6282157206032,Putri 49,jadi brp angsuran buat nyicil beli emasnya,CICIL_EMAS,0.72,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.45.34",6282164337372,Putri 79,Tuk cicil emas gmn?,CICIL_EMAS,0.72,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 17.08.38",6285260658412,Rina 34,Boleh berapa cicilan,CICIL_EMAS,0.71,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 12.16.18",6285842600447,Rina 12,Model cicil emas itu gmn kak🙏,CICIL_EMAS,0.71,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 21.45.34",6285338317856,Siti 58,Nyicil emas kan g boleh dlm islam.gmana sih mbk?,CICIL_EMAS,0.71,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.24.20",6285295603113,Eko 90,Cicil emas,CICIL_EMAS,0.71,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.38.04",6282127657661,Dewi 95,boleh kak kirim data cicilan nya?,CICIL_EMAS,0.7,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"20 Feb 2026, 17.16.55",6289531190907,Joko 91,Cicil emas,CICIL_EMAS,0.7,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.07.41",6281310661274,Eko 66,Cicilannya mulai harga berapa?,CICIL_EMAS,0.7,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.21.51",6281355000173,Rina 21,Mau nabung dari pada cicilan emas ya,CICIL_EMAS,0.69,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.59.41",6285323023460,Andi 22,Cicilan perbulan nya berapa?,CICIL_EMAS,0.69,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.45.05",6282118425060,Joko 62,Udah nyicil,CICIL_EMAS,0.69,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.55.30",6282386960744,Putri 20,Angsurannya berapa kalo cicil emas kk..?,CICIL_EMAS,0.68,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.33.49",6287888636096,Putri 74,Cicilan perbulan berapa? Ada plafon nya?,CICIL_EMAS,0.68,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 14.30.09",6282370123373,Rina 62,Angsuran,CICIL_EMAS,0.67,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.11.45",6282131067827,Sri 53,Klu 5gram cicilanya brp kak,CICIL_EMAS,0.66,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.22.10",6281310713571,Rizky 76,"Dengan berat hati saya menyampaikan jawaban bahwa penjelasannya atau jawaban yang diberikan Saudari kurang memuaskan,
+Karena saya masih ingin mengetahui lebih detail jika saya ingin menabung emas 10 gram maka harus dicicil berapa Rupiah perbulan,
+Kemudian saat tabungan sudah mencapai",CICIL_EMAS,0.65,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.28.08",6285600155609,Siti 90,Kalau yg cicil emas emang hrs ke kantor y kak,CICIL_EMAS,0.65,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 17.03.46",6281327719689,Eko 66,"Sy udh punya kalo itu, msh mau cicilan 1 malah bulan ini",CICIL_EMAS,0.65,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.55.06",6285260007063,Joko 44,"Apa lagi cicil emas, jelas haramnya",CICIL_EMAS,0.64,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"20 Feb 2026, 12.07.25",6285881807386,Sri 26,Untuk harga itu cicilannya  perbulannya ya. Dan tenornya brp lama,CICIL_EMAS,0.64,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.19.07",6281285322375,Andi 54,Cicil y tiap hari gtu ka,CICIL_EMAS,0.62,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 07.20.57",6285338317856,Rizky 55,Jelaskankan cicilan yg sesuai syariah itu seperti apa?,CICIL_EMAS,0.61,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.12.06",6283857637614,Rizky 21,Apa bedanya cicil dan nabung?,CICIL_EMAS,0.61,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 17.50.09",6285371277430,Rina 40,Untuk cicil nya kak berapa perbulan nya,CICIL_EMAS,0.61,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.19.19",6281311115219,Putri 30,Tabungan cicil emas bisa diambil setelah brp bulan dr lunas?,CICIL_EMAS,0.61,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.26.14",6287888636096,Sri 94,Berapa cicilan nya..,CICIL_EMAS,0.6,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.53.19",6282386960744,Dewi 61,Apa beda beli emas dengan cicil emas yg ada di byond bsi kk..??,CICIL_EMAS,0.6,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"13 Feb 2026, 14.41.34",6285236509740,Rina 62,"Waalaikumsalam, sudah mbak kemarin mulai bulan november yang cicil emas🙏",CICIL_EMAS,0.6,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"13 Feb 2026, 15.34.17",6287888636096,Joko 25,"Kalau 5 gram emas, untuk satu tahun berapa cicilan setiap bulannya kak aisyah?",CICIL_EMAS,0.6,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.41.11",6282154276575,Siti 97,"untuk sistem angsuran, angsuran tetap ya",CICIL_EMAS,0.6,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 13.27.44",6281316308475,Rina 17,Saya sudah cicil emas,CICIL_EMAS,0.59,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"20 Feb 2026, 13.27.17",6281316308475,Siti 86,Saya sudah cicil Emas di BSI,CICIL_EMAS,0.59,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"19 Feb 2026, 15.14.56",6285220633563,Ayu 84,"Kalau 5gr dp nya brp,angsurannya kisaran brp",CICIL_EMAS,0.59,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.42.07",6282154276575,Ahmad 63,mohon jelaskan detail tentang cicilan emas,CICIL_EMAS,0.56,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 07.24.08",6285338317856,Budi 16,Itulah yg diharomkan islam cicilan emas.perak.gandum garamjemawut.kurma.kk tdk salah ada 5 barang yg tdk boleh dihutang.walapun dewan syariah dunia menghahaljan tetap saja harom.,CICIL_EMAS,0.56,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.41.36",6282219588964,Sri 67,bagaimana alur-alur untuk cicil emas di bsi? apa harus ke bank bsi terlebih dahulu?,CICIL_EMAS,0.56,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.14.06",62811766709,Dewi 51,"Waalaikumsalam,  saya sudah cicil emas juga di BSI",CICIL_EMAS,0.56,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,ETB (Existing),-
+"18 Feb 2026, 15.26.09",6281270578245,Dewi 58,Siap inikan angsuran sampai 5 tahun.,CICIL_EMAS,0.55,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.19.47",6281342723289,Ayu 29,"Untuk saat ini, kalau cicil emas 5 gram, berapa bayarannya perbulan",CICIL_EMAS,0.55,3,🔥 Prioritas Tinggi - Follow up & Konversi Segera,NTB (Nasabah Baru),-
+"18 Feb 2026, 17.45.18",6281319626956,Rizky 43,Saya mah butuh pinjaman mitraguna,PEMBIAYAAN,0.99,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"19 Feb 2026, 13.53.02",6288233242350,Putri 30,Mitraguna online,PEMBIAYAAN,0.98,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"4 Feb 2026, 03.30.23",6281555729554,Joko 11,Kak boleh diinfo apakah BSI da program KPR rumah??,PEMBIAYAAN,0.95,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.48.10",6281255713737,Siti 43,"Sebenarnya kalau ada saya mau mengajukan pinjaman dana dengan sistem pembayaran auto debit, kebetulan gaji saya perbulan lewat BSI",PEMBIAYAAN,0.94,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.23.07",6285358026040,Putri 27,Klo ajukan pinjaman bisa kak.. 😁😁,PEMBIAYAAN,0.94,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.17.19",6281344499035,Sri 73,Apakah ada pinjaman utk yg payroll gajinya d BSI?,PEMBIAYAAN,0.93,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.16.58",6282311933766,Putri 64,Masalah potongan pinjaman pasca bencana,PEMBIAYAAN,0.91,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 18.42.56",6285254132553,Sri 15,Kalau kredit pensiun gimana?,PEMBIAYAAN,0.9,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"20 Feb 2026, 17.16.07",6289531190907,Sri 69,Cara buat kartu kredit dan persyaratan nya,PEMBIAYAAN,0.9,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.37.44",6281260038818,Rina 49,Aisyah sy bbrp HR yg lalu mau buka pinjaman multiguna tp ktnya kurang persyaratannya dantny SM aisyah,PEMBIAYAAN,0.89,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"20 Feb 2026, 14.42.47",6281214301826,Ayu 30,Potongan pinjaman tunai,PEMBIAYAAN,0.89,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 18.19.12",6281373072432,Rina 52,Adakah dana pinjaman,PEMBIAYAAN,0.87,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Easy Wadiah
+"18 Feb 2026, 15.22.39",6281368245231,Eko 75,Saya mau top up pinjaman saya saja,PEMBIAYAAN,0.83,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),-
+"19 Feb 2026, 21.05.53",6287846914330,Budi 10,Metode pembayarannya cash atau kredit,PEMBIAYAAN,0.76,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"21 Feb 2026, 20.23.48",6282271292088,Putri 43,Saya mau tanya perihal layanan kredit di BSI apakah ada?,PEMBIAYAAN,0.75,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Easy Wadiah
+"20 Feb 2026, 17.15.34",6289531190907,Dewi 86,Kalau info kartu kredit ada,PEMBIAYAAN,0.72,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"14 Feb 2026, 16.40.15",6282193984446,Dewi 14,maaf mau tanya kalau kredit pakai sertifikasi guru apa bisa?,PEMBIAYAAN,0.71,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"19 Feb 2026, 16.51.41",6285774675659,Putri 40,Mhn info KTA atau pinjaman serbaguna jaminan BPKB,PEMBIAYAAN,0.71,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"20 Feb 2026, 00.10.12",6285359036162,Putri 75,"Tinggal anda jawab,berapa gram emas ydng sy dapat,dr pinjaman 400jt,itu pun pihahak BSI dng saya saling membutuh kan Krn sistem infestasi.",PEMBIAYAAN,0.71,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"19 Feb 2026, 11.05.06",6285221038638,Eko 66,Mau tanya ttg kredit rumah atau griya untuk karyawan,PEMBIAYAAN,0.7,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"19 Feb 2026, 18.28.11",6281373072432,Dewi 57,"Iya terimakasih 
+Saya berkerja di pt.pama 
+Apakah saya bisa mengajukan pinjaman",PEMBIAYAAN,0.69,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"20 Feb 2026, 00.05.38",6285359036162,Sri 13,"Saya mau tanya apabila sy menjalin kerja sama dgn pihak BSI,sebesar 400jt dgn sistem kerja sama,berapa gram emas yg sy dpt dr pinjaman 400jt..",PEMBIAYAAN,0.67,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Bisnis
+"4 Feb 2026, 04.02.10",6281555729554,Eko 91,Perhitungan pembiayaan dengan KPR BSI Griya seperti apa?,PEMBIAYAAN,0.6,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Easy Wadiah
+"19 Feb 2026, 14.24.12",6282372743961,Putri 10,Pengajuan pinjaman dr bulan 12 sampe sekarang blm cair blm ada kabar,PEMBIAYAAN,0.6,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.28.05",6285727821041,Ahmad 22,Klau mitraguna online susah ya utk pencairannya mba,PEMBIAYAAN,0.6,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),-
+"13 Feb 2026, 18.38.27",6285765689382,Eko 67,Klu untuk kredit mobil apakah bisa,PEMBIAYAAN,0.57,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),-
+"19 Feb 2026, 15.34.14",6281276689228,Eko 82,Saat ini butuh dana pinjaman Bu buat bangun rumah 🙏,PEMBIAYAAN,0.57,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Bisnis
+"20 Feb 2026, 14.42.13",6281214301826,Budi 74,Sampai kapan ya kak tidak dipotong pinjaman bsi,PEMBIAYAAN,0.56,4,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.09.44",6285360520915,Putri 25,Pegadaian no 1 untuk investasi emas,GADAI_EMAS,0.98,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.31.56",6281260511180,Sri 32,"Giman gak tiori namanya aja bank ya tetap ada ribanya...
+Apa lg masalah gadai2 klo gak ada untung mana mau...
+😂",GADAI_EMAS,0.96,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"2 Feb 2026, 18.16.43",6281335822911,Putri 15,gadai,GADAI_EMAS,0.95,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"2 Feb 2026, 18.16.05",6281335822911,Joko 22,gaDAI,GADAI_EMAS,0.93,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),-
+"18 Feb 2026, 18.13.04",6285360520915,Andi 81,Pegadaian no 1 untuk investasi emas,GADAI_EMAS,0.91,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 18.14.17",6285360520915,Siti 26,Pegadaian no 1 untuk investasi emas,GADAI_EMAS,0.84,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"14 Feb 2026, 09.23.29",6285346073476,Budi 49,Bisa gadai emas di BSI?,GADAI_EMAS,0.83,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),-
+"18 Feb 2026, 18.13.56",6285360520915,Ayu 38,Pegadaian no 1 untuk investasi emas,GADAI_EMAS,0.82,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"14 Feb 2026, 09.24.20",6285346073476,Rina 73,Apa persyaratan gadai emas?,GADAI_EMAS,0.79,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 18.12.52",6285360520915,Joko 16,Pegadaian no 1 untuk investasi emas,GADAI_EMAS,0.77,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 15.41.12",6281329108005,Dewi 60,Waalaikumsalam mohon maaf lha saya udah terlanjur nabung emasnya di Pegadaian kak🙏,GADAI_EMAS,0.74,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"2 Feb 2026, 18.17.39",6281335822911,Rizky 76,cara gadai gmn?,GADAI_EMAS,0.72,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"2 Feb 2026, 18.16.24",6281335822911,Eko 30,gadai,GADAI_EMAS,0.71,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 17.51.51",6285360520915,Eko 52,Enak pegadaian lebih menjamin,GADAI_EMAS,0.68,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.05.06",628179417757,Siti 30,Kalau gadai emas bagaimana ya. Misal 2 gram emas antam mau saya gadaikan. Dihargai berapa dan Caranya bagaimana?,GADAI_EMAS,0.68,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"2 Feb 2026, 18.17.18",6281335822911,Sri 95,saya mau gadai,GADAI_EMAS,0.68,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Easy Wadiah
+"17 Feb 2026, 11.54.04",6282384380612,Putri 12,Ibu mau gadai emas Aisyah,GADAI_EMAS,0.65,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"2 Feb 2026, 18.19.19",6281335822911,Eko 99,syarat gadai,GADAI_EMAS,0.62,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),-
+"13 Feb 2026, 14.07.49",628179417757,Joko 58,Kalau sistem gadai itu per bulan bayar berapa ya?klo 2g antam.jk tdk bisa nebus apa emas tsb hilang?,GADAI_EMAS,0.61,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.25.58",6283857637614,Putri 37,"Jika saya memutuskan menabung emas, lalu sewaktu-waktu membutuhkan dana, apakah tabungan emas bisa dijual atau digadai lewat Byond?",GADAI_EMAS,0.6,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"14 Feb 2026, 09.25.56",6285346073476,Andi 39,"Mbak Aisyah, boleh tau berapa persen sewa modal gadai emas perbulannya?",GADAI_EMAS,0.6,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 17.49.45",6285360520915,Putri 34,Beli di pegadaiana aja lebih jelas emasnya,GADAI_EMAS,0.56,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"18 Feb 2026, 16.13.38",6285727821041,Budi 43,Gadai mas saya jg terblokir mba,GADAI_EMAS,0.55,5,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"13 Feb 2026, 14.02.12",6287889108927,Putri 83,"Bismillah
+
+Terima kasih telah menghubungi Sysca, Konsultan Travel Haji dan Umroh. In syaa Allah saya akan segera membalas chat anda, mohon menunggu, terima kasih, baarokallahufiikum",HAJI,0.9,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.23.47",6281999188393,Budi 65,Tabungan haji aja nggak diisi kak,HAJI,0.86,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"6 Feb 2026, 09.21.05",6285219546102,Budi 50,Bisa bantu info haji?,HAJI,0.82,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),-
+"13 Feb 2026, 14.06.32",6281276736826,Siti 69,"Waalaikum salam insyaallah , mohon maaf  kami nasabah  BSI, jamaah haji 2026   mau bertanya kapan perlengkapan/  haji yg dari BSI keluarnya  Trmk 🙏🙏",HAJI,0.8,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.15.41",6285324300606,Budi 96,Sedang bersiap utk keberangkatan ibadah haji dulu,HAJI,0.78,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.02.34",6281280742152,Budi 34,"Waalaikumsalam warahmatullahi wabarakatuh
+Ahlan Wa Sahlan di ""Travel Garislurus_Purwakarta:
+*Umroh
+*Haji Khusus
+
+Silahkan beri tahu apa yang dapat kami bantu👍🏻☺️
+https://wa.me/c/6281280742152
+http://purwakarta.garislurus.com/bio
+
+Kantor:
+Perum Sadang Sari Permai B25 Purwakarta 41118",HAJI,0.64,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Bisnis
+"18 Feb 2026, 15.14.01",6283162272362,Sri 57,kak saya sudah nabung ke haji ke BSI kalau di alihkan emas apa boleh kak,HAJI,0.62,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.01.25",6281234234354,Siti 18,"Terima kasih telah menghubungi PT. AN NAMIROH TRAVELINDO Penyelenggara Umroh dan Haji Khusus Izin Resmi, Silakan beritahu apa yang dapat kami bantu informasikan,
+
+الحمدالله جزاك الله خيرا
+سموڳاالله فاريغ امان، سلامة، لانجار دان براكه🙏
+
+Alamat Kantor :
+UMROH DAN HAJI PT. AN NAMIROH TRAVELINDO
+
+Jl. Raya Banaran No. 24 Pesantren, Kota Kediri, Jawa Timur 
+Kode Pos 64133
+
+HP. 081234434354
+
+https://maps.app.goo.gl/Loc7MNo1QJUQyAxB9
+
+Izin Resmi : PPIU 949/2019 | KBIH 611/2014 | PIHK 151/2021",HAJI,0.59,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.16.19",6282370360989,Ayu 46,lagi fokus ke tabungan haji,HAJI,0.58,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Bisnis
+"19 Feb 2026, 14.15.17",6282347476569,Joko 99,"Wa 'alaykumussalâm warahmatullâhi wabarakâtuh,
+Apa yg bisa kami bantu?
+
+Mau Konsultasi Travel Haji & Umrah?
+Konsultasi Keuangan?
+Konsultasi Administrasi?
+Belanja _Street Foood & Beverages_
+Belanja Produk Keren?, cek Katalog!
+
+Terimakasih telah menghubungi Kami😇🤲🏻🕋",HAJI,0.58,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.14.10",6281276736826,Rina 82,belum lagi Aisyiah mau pokus ke  keberangkatan  Haji' 🙏,HAJI,0.57,6,💡 Prioritas Menengah - Tawarkan Edukasi/Promo,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.16.30",6285705228058,Andi 11,Kak bisa kirim brosur kur bsi,KUR,0.89,7,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
+"19 Feb 2026, 15.01.59",6281281701709,Siti 80,Pinjaman KUR bisa kah,KUR,0.79,7,ℹ️ Low Priority - Berikan Info Dasar,ETB (Existing),Tabungan Easy Wadiah
+"13 Feb 2026, 14.58.00",6281311057004,Sri 66,Maksudnya ajuan KUR BSI kak,KUR,0.78,7,ℹ️ Low Priority - Berikan Info Dasar,ETB (Existing),Tabungan Haji
+"19 Feb 2026, 14.16.40",6285262515940,Budi 73,Assalamu'alaikum kk klw kur udah buka kk,KUR,0.75,7,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.03.36",6285974771664,Dewi 11,Kasih info dong marketing buat pinjaman KUR,KUR,0.71,7,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
+"18 Feb 2026, 18.21.42",62895610043433,Andi 73,Klo kur beda lg ya,KUR,0.66,7,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.23.08",6285705228058,Dewi 63,"Cukup kak
+Nanti rencananya mau ajukan pinjaman kur aja,,",KUR,0.65,7,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
+"18 Feb 2026, 20.21.13",6281352548704,Sri 95,Minta brosur pinjam KUR,KUR,0.59,7,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
+"19 Feb 2026, 14.23.37",6281213409627,Sri 26,Saya butuh kredit KK u modal usaha...KLO nabung blm bisa kk🙏,KUR,0.59,7,ℹ️ Low Priority - Berikan Info Dasar,ETB (Existing),Tabungan Haji
+"18 Feb 2026, 15.16.27",6281318179379,Ahmad 25,"Assalamualaikum warahmatullahi wabarokatuh Bapak/Ibu 🙏 Terima kasih sudah menghubungi Konsultan Resmi Ventour Travel, Dewi Fitria Annisa. Saya siap membantu informasi umroh terbaik Bapak/Ibu 😇",UMROH,0.9,8,ℹ️ Low Priority - Berikan Info Dasar,ETB (Existing),-
+"13 Feb 2026, 14.03.05",62895363577599,Putri 84,"Terima kasih telah menghubungi Husna Halal Mart. (Melayani Tabungan,   Pendaftaran PAKET UMROH dan Keperluan Produk Herbal: Susu Bubuk Kambing Etawa, Madu, Habbatusauda, herbal HNI, dll). Silakan Kak beri tahu apa yang dapat kami bantu.",UMROH,0.68,8,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
+"13 Feb 2026, 14.02.53",6285229078544,Dewi 76,"Kunjungi bisnis kami: Green religi, demikado, arraihan rent house &agent umroh😍",UMROH,0.67,8,ℹ️ Low Priority - Berikan Info Dasar,ETB (Existing),Tabungan Bisnis
+"13 Feb 2026, 14.07.26",6282225616449,Rina 20,"Terima kasih telah menghubungi Toko Tamara. Silakan beri tahu apa yang dapat kami bantu.
+
+Silahkan cek instagram kami jika ingin liat Baju, jilbab, perlengkapan umroh, pemesanan lewat shopee klik link ini 👇
+
+https://linktr.ee/Tamarabtl
+
+“Bosan dengan kopi biasa? Coba sensasi baru dengan varian kopi herbal unik dan berkualitas tinggi produk asli Indonesia dan obat herbal HNI HPAI lainnya klik ini👇
+
+https://www.instagram.com/syamsiahtamara?igsh=MWFjOTJ5YnMycHl6aQ==",UMROH,0.62,8,ℹ️ Low Priority - Berikan Info Dasar,ETB (Existing),-
+"13 Feb 2026, 14.22.42",6282310953461,Eko 59,"Kl d bandingkan dgn Deposito ,lebih menguntugkan mn ya mbk🙏🏻",DEPOSITO,0.55,9,ℹ️ Low Priority - Berikan Info Dasar,NTB (Nasabah Baru),-
